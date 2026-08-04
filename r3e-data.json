@@ -371,9 +371,9 @@
 			]
 		},
 		"258": {
-			"Name": "134 Judd V8",
-			"BrandName": "Georg Plasa",
-			"CarManufacturer": 2642,
+			"Name": "BMW 134 Judd V8",
+			"BrandName": "BMW",
+			"CarManufacturer": 2550,
 			"DefaultLivery": 2054,
 			"Id": 258,
 			"Class": 1685,
@@ -384,7 +384,7 @@
 					"Car": 258,
 					"Id": 2054,
 					"Class": 1685,
-					"TeamName": "Team Judd 134",
+					"TeamName": "Georg Plasa",
 					"drivers": [
 						{
 							"Forename": "Georg",
@@ -61735,6 +61735,226 @@
 				}
 			]
 		},
+		"13591": {
+			"Name": "Ford Mustang GT3 EVO DTM",
+			"BrandName": "Ford",
+			"CarManufacturer": 2626,
+			"DefaultLivery": 13593,
+			"Id": 13591,
+			"Class": 13571,
+			"liveries": [
+				{
+					"Name": "#36",
+					"Team": 13592,
+					"Car": 13591,
+					"Id": 13593,
+					"Class": 13571,
+					"TeamName": "HRT Ford Racing",
+					"drivers": [
+						{
+							"Forename": "Arjun",
+							"Surname": "Maini",
+							"Id": 10696
+						}
+					]
+				},
+				{
+					"Name": "#64",
+					"Team": 13592,
+					"Car": 13591,
+					"Id": 13626,
+					"Class": 13571,
+					"TeamName": "HRT Ford Racing",
+					"drivers": [
+						{
+							"Forename": "Finn",
+							"Surname": "Wiebelhaus",
+							"Id": 13625
+						}
+					]
+				}
+			]
+		},
+		"13594": {
+			"Name": "Lamborghini Temerario GT3 DTM",
+			"BrandName": "Lamborghini",
+			"CarManufacturer": 9930,
+			"DefaultLivery": 13596,
+			"Id": 13594,
+			"Class": 13571,
+			"liveries": [
+				{
+					"Name": "#130",
+					"Team": 13595,
+					"Car": 13594,
+					"Id": 13596,
+					"Class": 13571,
+					"TeamName": "Red Bull Team Abt",
+					"drivers": [
+						{
+							"Forename": "Luca",
+							"Surname": "Engstler",
+							"Id": 8799
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 13595,
+					"Car": 13594,
+					"Id": 13609,
+					"Class": 13571,
+					"TeamName": "Red Bull Team Abt",
+					"drivers": [
+						{
+							"Forename": "Marco",
+							"Surname": "Mapelli",
+							"Id": 13610
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 13613,
+					"Car": 13594,
+					"Id": 13614,
+					"Class": 13571,
+					"TeamName": "TGI Team by GRT",
+					"drivers": [
+						{
+							"Forename": "Maximilian",
+							"Surname": "Paul",
+							"Id": 9725
+						}
+					]
+				},
+				{
+					"Name": "#63",
+					"Team": 13613,
+					"Car": 13594,
+					"Id": 13615,
+					"Class": 13571,
+					"TeamName": "TGI Team by GRT",
+					"drivers": [
+						{
+							"Forename": "Mirko",
+							"Surname": "Bortolotti",
+							"Id": 9719
+						}
+					]
+				}
+			]
+		},
+		"13597": {
+			"Name": "Mercedes-AMG GT3 2020 DTM",
+			"BrandName": "Mercedes",
+			"CarManufacturer": 2552,
+			"DefaultLivery": 13612,
+			"Id": 13597,
+			"Class": 13571,
+			"liveries": [
+				{
+					"Name": "#80",
+					"Team": 13598,
+					"Car": 13597,
+					"Id": 13599,
+					"Class": 13571,
+					"TeamName": "Mercedes-AMG Team Ravenol",
+					"drivers": [
+						{
+							"Forename": "Maro",
+							"Surname": "Engel",
+							"Id": 9738
+						}
+					]
+				},
+				{
+					"Name": "#48",
+					"Team": 13607,
+					"Car": 13597,
+					"Id": 13608,
+					"Class": 13571,
+					"TeamName": "Mercedes-AMG Team Mann-Filter",
+					"drivers": [
+						{
+							"Forename": "Jules",
+							"Surname": "Gounon",
+							"Id": 6524
+						}
+					]
+				},
+				{
+					"Name": "#84",
+					"Team": 13611,
+					"Car": 13597,
+					"Id": 13612,
+					"Class": 13571,
+					"TeamName": "Mercedes-AMG Team Landgraf",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Kalender",
+							"Id": 13167
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 13611,
+					"Car": 13597,
+					"Id": 13616,
+					"Class": 13571,
+					"TeamName": "Mercedes-AMG Team Landgraf",
+					"drivers": [
+						{
+							"Forename": "Lucas",
+							"Surname": "Auer",
+							"Id": 9143
+						}
+					]
+				}
+			]
+		},
+		"13603": {
+			"Name": "Aston Martin Vantage AMR GT3 EVO DTM",
+			"BrandName": "Aston Martin",
+			"CarManufacturer": 2622,
+			"DefaultLivery": 13605,
+			"Id": 13603,
+			"Class": 13571,
+			"liveries": [
+				{
+					"Name": "#007",
+					"Team": 13604,
+					"Car": 13603,
+					"Id": 13605,
+					"Class": 13571,
+					"TeamName": "Comtoyou Racing",
+					"drivers": [
+						{
+							"Forename": "Nicki",
+							"Surname": "Thiim",
+							"Id": 6437
+						}
+					]
+				},
+				{
+					"Name": "#008",
+					"Team": 13604,
+					"Car": 13603,
+					"Id": 13624,
+					"Class": 13571,
+					"TeamName": "Comtoyou Racing",
+					"drivers": [
+						{
+							"Forename": "Nicolas",
+							"Surname": "Baert",
+							"Id": 9619
+						}
+					]
+				}
+			]
+		},
 		"13617": {
 			"Name": "BMW M4 GT3 EVO DTM",
 			"BrandName": "BMW",
@@ -61770,6 +61990,46 @@
 							"Forename": "Kelvin",
 							"Surname": "van der Linde",
 							"Id": 9695
+						}
+					]
+				}
+			]
+		},
+		"13620": {
+			"Name": "McLaren 720S GT3 EVO DTM",
+			"BrandName": "McLaren",
+			"CarManufacturer": 2621,
+			"DefaultLivery": 13622,
+			"Id": 13620,
+			"Class": 13571,
+			"liveries": [
+				{
+					"Name": "#16",
+					"Team": 13621,
+					"Car": 13620,
+					"Id": 13622,
+					"Class": 13571,
+					"TeamName": "Dörr Motorsport ",
+					"drivers": [
+						{
+							"Forename": "Timo",
+							"Surname": "Glock",
+							"Id": 9141
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 13621,
+					"Car": 13620,
+					"Id": 13627,
+					"Class": 13571,
+					"TeamName": "Dörr Motorsport ",
+					"drivers": [
+						{
+							"Forename": "Ben",
+							"Surname": "Dörr",
+							"Id": 12818
 						}
 					]
 				}
@@ -62563,7 +62823,7 @@
 			"Car": 258,
 			"Id": 2054,
 			"Class": 1685,
-			"TeamName": "Team Judd 134",
+			"TeamName": "Georg Plasa",
 			"drivers": [
 				{
 					"Forename": "Georg",
@@ -119982,6 +120242,51 @@
 				}
 			]
 		},
+		"13593": {
+			"Name": "#36",
+			"Team": 13592,
+			"Car": 13591,
+			"Id": 13593,
+			"Class": 13571,
+			"TeamName": "HRT Ford Racing",
+			"drivers": [
+				{
+					"Forename": "Arjun",
+					"Surname": "Maini",
+					"Id": 10696
+				}
+			]
+		},
+		"13596": {
+			"Name": "#130",
+			"Team": 13595,
+			"Car": 13594,
+			"Id": 13596,
+			"Class": 13571,
+			"TeamName": "Red Bull Team Abt",
+			"drivers": [
+				{
+					"Forename": "Luca",
+					"Surname": "Engstler",
+					"Id": 8799
+				}
+			]
+		},
+		"13599": {
+			"Name": "#80",
+			"Team": 13598,
+			"Car": 13597,
+			"Id": 13599,
+			"Class": 13571,
+			"TeamName": "Mercedes-AMG Team Ravenol",
+			"drivers": [
+				{
+					"Forename": "Maro",
+					"Surname": "Engel",
+					"Id": 9738
+				}
+			]
+		},
 		"13601": {
 			"Name": "#90",
 			"Team": 13600,
@@ -120012,6 +120317,111 @@
 				}
 			]
 		},
+		"13605": {
+			"Name": "#007",
+			"Team": 13604,
+			"Car": 13603,
+			"Id": 13605,
+			"Class": 13571,
+			"TeamName": "Comtoyou Racing",
+			"drivers": [
+				{
+					"Forename": "Nicki",
+					"Surname": "Thiim",
+					"Id": 6437
+				}
+			]
+		},
+		"13608": {
+			"Name": "#48",
+			"Team": 13607,
+			"Car": 13597,
+			"Id": 13608,
+			"Class": 13571,
+			"TeamName": "Mercedes-AMG Team Mann-Filter",
+			"drivers": [
+				{
+					"Forename": "Jules",
+					"Surname": "Gounon",
+					"Id": 6524
+				}
+			]
+		},
+		"13609": {
+			"Name": "#10",
+			"Team": 13595,
+			"Car": 13594,
+			"Id": 13609,
+			"Class": 13571,
+			"TeamName": "Red Bull Team Abt",
+			"drivers": [
+				{
+					"Forename": "Marco",
+					"Surname": "Mapelli",
+					"Id": 13610
+				}
+			]
+		},
+		"13612": {
+			"Name": "#84",
+			"Team": 13611,
+			"Car": 13597,
+			"Id": 13612,
+			"Class": 13571,
+			"TeamName": "Mercedes-AMG Team Landgraf",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Kalender",
+					"Id": 13167
+				}
+			]
+		},
+		"13614": {
+			"Name": "#19",
+			"Team": 13613,
+			"Car": 13594,
+			"Id": 13614,
+			"Class": 13571,
+			"TeamName": "TGI Team by GRT",
+			"drivers": [
+				{
+					"Forename": "Maximilian",
+					"Surname": "Paul",
+					"Id": 9725
+				}
+			]
+		},
+		"13615": {
+			"Name": "#63",
+			"Team": 13613,
+			"Car": 13594,
+			"Id": 13615,
+			"Class": 13571,
+			"TeamName": "TGI Team by GRT",
+			"drivers": [
+				{
+					"Forename": "Mirko",
+					"Surname": "Bortolotti",
+					"Id": 9719
+				}
+			]
+		},
+		"13616": {
+			"Name": "#22",
+			"Team": 13611,
+			"Car": 13597,
+			"Id": 13616,
+			"Class": 13571,
+			"TeamName": "Mercedes-AMG Team Landgraf",
+			"drivers": [
+				{
+					"Forename": "Lucas",
+					"Surname": "Auer",
+					"Id": 9143
+				}
+			]
+		},
 		"13619": {
 			"Name": "#11",
 			"Team": 13618,
@@ -120027,6 +120437,21 @@
 				}
 			]
 		},
+		"13622": {
+			"Name": "#16",
+			"Team": 13621,
+			"Car": 13620,
+			"Id": 13622,
+			"Class": 13571,
+			"TeamName": "Dörr Motorsport ",
+			"drivers": [
+				{
+					"Forename": "Timo",
+					"Surname": "Glock",
+					"Id": 9141
+				}
+			]
+		},
 		"13623": {
 			"Name": "#3",
 			"Team": 13618,
@@ -120039,6 +120464,51 @@
 					"Forename": "Kelvin",
 					"Surname": "van der Linde",
 					"Id": 9695
+				}
+			]
+		},
+		"13624": {
+			"Name": "#008",
+			"Team": 13604,
+			"Car": 13603,
+			"Id": 13624,
+			"Class": 13571,
+			"TeamName": "Comtoyou Racing",
+			"drivers": [
+				{
+					"Forename": "Nicolas",
+					"Surname": "Baert",
+					"Id": 9619
+				}
+			]
+		},
+		"13626": {
+			"Name": "#64",
+			"Team": 13592,
+			"Car": 13591,
+			"Id": 13626,
+			"Class": 13571,
+			"TeamName": "HRT Ford Racing",
+			"drivers": [
+				{
+					"Forename": "Finn",
+					"Surname": "Wiebelhaus",
+					"Id": 13625
+				}
+			]
+		},
+		"13627": {
+			"Name": "#25",
+			"Team": 13621,
+			"Car": 13620,
+			"Id": 13627,
+			"Class": 13571,
+			"TeamName": "Dörr Motorsport ",
+			"drivers": [
+				{
+					"Forename": "Ben",
+					"Surname": "Dörr",
+					"Id": 12818
 				}
 			]
 		}
@@ -124411,7 +124881,22 @@
 			"Name": "DTM 2026",
 			"Cars": [
 				{
+					"Id": 13603
+				},
+				{
 					"Id": 13617
+				},
+				{
+					"Id": 13591
+				},
+				{
+					"Id": 13594
+				},
+				{
+					"Id": 13620
+				},
+				{
+					"Id": 13597
 				},
 				{
 					"Id": 13572
@@ -124444,6 +124929,10 @@
 		"2621": {
 			"Name": "McLaren",
 			"Id": 2621
+		},
+		"2622": {
+			"Name": "Aston Martin",
+			"Id": 2622
 		},
 		"2623": {
 			"Name": "Chevrolet",
@@ -124797,7 +125286,7 @@
 		},
 		"2053": {
 			"Type": "CarTeam",
-			"Name": "Team Judd 134",
+			"Name": "Georg Plasa",
 			"Id": 2053
 		},
 		"2061": {
@@ -136075,15 +136564,55 @@
 			"Name": "Mercedes-AMG Team RAVENOL",
 			"Id": 13577
 		},
+		"13592": {
+			"Type": "CarTeam",
+			"Name": "HRT Ford Racing",
+			"Id": 13592
+		},
+		"13595": {
+			"Type": "CarTeam",
+			"Name": "Red Bull Team Abt",
+			"Id": 13595
+		},
+		"13598": {
+			"Type": "CarTeam",
+			"Name": "Mercedes-AMG Team Ravenol",
+			"Id": 13598
+		},
 		"13600": {
 			"Type": "CarTeam",
 			"Name": "Manthey",
 			"Id": 13600
 		},
+		"13604": {
+			"Type": "CarTeam",
+			"Name": "Comtoyou Racing",
+			"Id": 13604
+		},
+		"13607": {
+			"Type": "CarTeam",
+			"Name": "Mercedes-AMG Team Mann-Filter",
+			"Id": 13607
+		},
+		"13611": {
+			"Type": "CarTeam",
+			"Name": "Mercedes-AMG Team Landgraf",
+			"Id": 13611
+		},
+		"13613": {
+			"Type": "CarTeam",
+			"Name": "TGI Team by GRT",
+			"Id": 13613
+		},
 		"13618": {
 			"Type": "CarTeam",
 			"Name": "Schubert Motorsport",
 			"Id": 13618
+		},
+		"13621": {
+			"Type": "CarTeam",
+			"Name": "Dörr Motorsport ",
+			"Id": 13621
 		},
 		"13633": {
 			"Type": "CarTeam",
