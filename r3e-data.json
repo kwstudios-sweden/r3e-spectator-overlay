@@ -392,6 +392,36 @@
 							"Id": 2941
 						}
 					]
+				},
+				{
+					"Name": "#9",
+					"Team": 2053,
+					"Car": 258,
+					"Id": 13657,
+					"Class": 1685,
+					"TeamName": "Georg Plasa",
+					"drivers": [
+						{
+							"Forename": "Georg",
+							"Surname": "Plasa",
+							"Id": 2941
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 2053,
+					"Car": 258,
+					"Id": 13718,
+					"Class": 1685,
+					"TeamName": "Georg Plasa",
+					"drivers": [
+						{
+							"Forename": "Georg",
+							"Surname": "Plasa",
+							"Id": 2941
+						}
+					]
 				}
 			]
 		},
@@ -2434,7 +2464,7 @@
 			"Name": "Ford GT GT1",
 			"BrandName": "Ford",
 			"CarManufacturer": 2626,
-			"DefaultLivery": 2328,
+			"DefaultLivery": 3921,
 			"Id": 1779,
 			"Class": 1687,
 			"liveries": [
@@ -14726,14 +14756,14 @@
 			"CarManufacturer": 4814,
 			"DefaultLivery": 4948,
 			"Id": 4810,
-			"Class": 4813,
+			"Class": 8483,
 			"liveries": [
 				{
 					"Name": "#24",
 					"Team": 4811,
 					"Car": 4810,
 					"Id": 4946,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Diggleton Racing",
 					"drivers": [
 						{
@@ -14748,7 +14778,7 @@
 					"Team": 4995,
 					"Car": 4810,
 					"Id": 4947,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Marc CL Racing",
 					"drivers": [
 						{
@@ -14763,7 +14793,7 @@
 					"Team": 4996,
 					"Car": 4810,
 					"Id": 4948,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Jägerbomb Motor",
 					"drivers": [
 						{
@@ -14778,7 +14808,7 @@
 					"Team": 5020,
 					"Car": 4810,
 					"Id": 4949,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Horizon 75",
 					"drivers": [
 						{
@@ -14793,7 +14823,7 @@
 					"Team": 4998,
 					"Car": 4810,
 					"Id": 4950,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Spiess Tuning",
 					"drivers": [
 						{
@@ -14808,7 +14838,7 @@
 					"Team": 4997,
 					"Car": 4810,
 					"Id": 4951,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Bergmeister KG",
 					"drivers": [
 						{
@@ -14823,7 +14853,7 @@
 					"Team": 5021,
 					"Car": 4810,
 					"Id": 4952,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Friedmann",
 					"drivers": [
 						{
@@ -14838,7 +14868,7 @@
 					"Team": 5022,
 					"Car": 4810,
 					"Id": 4953,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Raiffeisen Racing",
 					"drivers": [
 						{
@@ -14853,7 +14883,7 @@
 					"Team": 5023,
 					"Car": 4810,
 					"Id": 4954,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Kvantum Team",
 					"drivers": [
 						{
@@ -14868,7 +14898,7 @@
 					"Team": 5024,
 					"Car": 4810,
 					"Id": 4955,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "TNT Farben",
 					"drivers": [
 						{
@@ -14883,7 +14913,7 @@
 					"Team": 5025,
 					"Car": 4810,
 					"Id": 4956,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Sekurit-Glas Union",
 					"drivers": [
 						{
@@ -14898,7 +14928,7 @@
 					"Team": 4999,
 					"Car": 4810,
 					"Id": 4957,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "TMU Group",
 					"drivers": [
 						{
@@ -14913,7 +14943,7 @@
 					"Team": 5000,
 					"Car": 4810,
 					"Id": 4958,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Randstad Team",
 					"drivers": [
 						{
@@ -14928,7 +14958,7 @@
 					"Team": 5001,
 					"Car": 4810,
 					"Id": 4959,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Blue Checks Motor",
 					"drivers": [
 						{
@@ -14943,7 +14973,7 @@
 					"Team": 5002,
 					"Car": 4810,
 					"Id": 4960,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Error 500",
 					"drivers": [
 						{
@@ -14958,7 +14988,7 @@
 					"Team": 5003,
 					"Car": 4810,
 					"Id": 4961,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Gulf Racing",
 					"drivers": [
 						{
@@ -14973,7 +15003,7 @@
 					"Team": 5004,
 					"Car": 4810,
 					"Id": 4962,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Castrol Racing",
 					"drivers": [
 						{
@@ -14988,7 +15018,7 @@
 					"Team": 5015,
 					"Car": 4810,
 					"Id": 4963,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Tolles Autohaus",
 					"drivers": [
 						{
@@ -15003,7 +15033,7 @@
 					"Team": 5016,
 					"Car": 4810,
 					"Id": 4964,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Revell Team",
 					"drivers": [
 						{
@@ -15018,7 +15048,7 @@
 					"Team": 5017,
 					"Car": 4810,
 					"Id": 4965,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Bartolome Racing",
 					"drivers": [
 						{
@@ -15033,7 +15063,7 @@
 					"Team": 4811,
 					"Car": 4810,
 					"Id": 4966,
-					"Class": 4813,
+					"Class": 8483,
 					"TeamName": "Recaro",
 					"drivers": [
 						{
@@ -30134,7 +30164,7 @@
 					]
 				},
 				{
-					"Name": "#5",
+					"Name": "#05",
 					"Team": 8361,
 					"Car": 7805,
 					"Id": 8146,
@@ -31984,7 +32014,7 @@
 					]
 				},
 				{
-					"Name": "#7",
+					"Name": "#07",
 					"Team": 8212,
 					"Car": 8053,
 					"Id": 8247,
@@ -32239,7 +32269,7 @@
 					]
 				},
 				{
-					"Name": "#96",
+					"Name": "#096",
 					"Team": 8224,
 					"Car": 8053,
 					"Id": 10291,
@@ -61592,6 +61622,501 @@
 							"Id": 13470
 						}
 					]
+				},
+				{
+					"Name": "#003",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14065,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Paulo",
+							"Surname": "Giantille",
+							"Id": 4735
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 14076,
+					"Car": 13398,
+					"Id": 14066,
+					"Class": 5825,
+					"TeamName": "Tobii",
+					"drivers": [
+						{
+							"Forename": "Helmut",
+							"Surname": "Becker",
+							"Id": 4739
+						}
+					]
+				},
+				{
+					"Name": "#013",
+					"Team": 14077,
+					"Car": 13398,
+					"Id": 14067,
+					"Class": 5825,
+					"TeamName": "Qan",
+					"drivers": [
+						{
+							"Forename": "Kurt",
+							"Surname": "Langer",
+							"Id": 4744
+						}
+					]
+				},
+				{
+					"Name": "#02",
+					"Team": 14078,
+					"Car": 13398,
+					"Id": 14068,
+					"Class": 5825,
+					"TeamName": "Shamir",
+					"drivers": [
+						{
+							"Forename": "Christophe",
+							"Surname": "Pascal",
+							"Id": 4738
+						}
+					]
+				},
+				{
+					"Name": "#03",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14069,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Ricco",
+							"Surname": "Cardinale",
+							"Id": 4749
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 14076,
+					"Car": 13398,
+					"Id": 14070,
+					"Class": 5825,
+					"TeamName": "Tobii",
+					"drivers": [
+						{
+							"Forename": "Robert",
+							"Surname": "Davies",
+							"Id": 4745
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 14077,
+					"Car": 13398,
+					"Id": 14071,
+					"Class": 5825,
+					"TeamName": "Qan",
+					"drivers": [
+						{
+							"Forename": "Stéphane",
+							"Surname": "Gonfaron",
+							"Id": 4754
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 14103,
+					"Car": 13398,
+					"Id": 14072,
+					"Class": 5825,
+					"TeamName": "Businessolver",
+					"drivers": [
+						{
+							"Forename": "Akira",
+							"Surname": "Imanishi",
+							"Id": 4752
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 14078,
+					"Car": 13398,
+					"Id": 14073,
+					"Class": 5825,
+					"TeamName": "Shamir",
+					"drivers": [
+						{
+							"Forename": "Henri",
+							"Surname": "Latour",
+							"Id": 4730
+						}
+					]
+				},
+				{
+					"Name": "#0003",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14074,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Mario",
+							"Surname": "Innocenti",
+							"Id": 4732
+						}
+					]
+				},
+				{
+					"Name": "#31",
+					"Team": 14079,
+					"Car": 13398,
+					"Id": 14075,
+					"Class": 5825,
+					"TeamName": "Moser.Watch",
+					"drivers": [
+						{
+							"Forename": "Karl",
+							"Surname": "Sorensson",
+							"Id": 7588
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 14078,
+					"Car": 13398,
+					"Id": 14081,
+					"Class": 5825,
+					"TeamName": "Shamir",
+					"drivers": [
+						{
+							"Forename": "Arnaud",
+							"Surname": "Rutten",
+							"Id": 5870
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 14078,
+					"Car": 13398,
+					"Id": 14082,
+					"Class": 5825,
+					"TeamName": "Shamir",
+					"drivers": [
+						{
+							"Forename": "Emmanuel",
+							"Surname": "Panetier",
+							"Id": 4127
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 14103,
+					"Car": 13398,
+					"Id": 14083,
+					"Class": 5825,
+					"TeamName": "Businessolver",
+					"drivers": [
+						{
+							"Forename": "Giovanni",
+							"Surname": "Mancini",
+							"Id": 5851
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 14076,
+					"Car": 13398,
+					"Id": 14084,
+					"Class": 5825,
+					"TeamName": "Tobii",
+					"drivers": [
+						{
+							"Forename": "Kenny",
+							"Surname": "Clark",
+							"Id": 4750
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 14076,
+					"Car": 13398,
+					"Id": 14085,
+					"Class": 5825,
+					"TeamName": "Tobii",
+					"drivers": [
+						{
+							"Forename": "Mathieu",
+							"Surname": "d'Orleans",
+							"Id": 4746
+						}
+					]
+				},
+				{
+					"Name": "#17",
+					"Team": 14077,
+					"Car": 13398,
+					"Id": 14086,
+					"Class": 5825,
+					"TeamName": "Qan",
+					"drivers": [
+						{
+							"Forename": "Pablo",
+							"Surname": "Jiménez",
+							"Id": 5860
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 14077,
+					"Car": 13398,
+					"Id": 14087,
+					"Class": 5825,
+					"TeamName": "Qan",
+					"drivers": [
+						{
+							"Forename": "Kevin",
+							"Surname": "Miller",
+							"Id": 5871
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14088,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Éric",
+							"Surname": "Guillemot",
+							"Id": 5715
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 14103,
+					"Car": 13398,
+					"Id": 14089,
+					"Class": 5825,
+					"TeamName": "Businessolver",
+					"drivers": [
+						{
+							"Forename": "Emmanuel",
+							"Surname": "Panetier",
+							"Id": 4127
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 14079,
+					"Car": 13398,
+					"Id": 14090,
+					"Class": 5825,
+					"TeamName": "Moser.Watch",
+					"drivers": [
+						{
+							"Forename": "Harry",
+							"Surname": "Tama",
+							"Id": 5846
+						}
+					]
+				},
+				{
+					"Name": "#23",
+					"Team": 14076,
+					"Car": 13398,
+					"Id": 14091,
+					"Class": 5825,
+					"TeamName": "Tobii",
+					"drivers": [
+						{
+							"Forename": "Oskar",
+							"Surname": "Sannes",
+							"Id": 4471
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 14076,
+					"Car": 13398,
+					"Id": 14092,
+					"Class": 5825,
+					"TeamName": "Tobii",
+					"drivers": [
+						{
+							"Forename": "Yukio",
+							"Surname": "Oshima",
+							"Id": 4742
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14093,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Pietro",
+							"Surname": "Rosellini",
+							"Id": 4734
+						}
+					]
+				},
+				{
+					"Name": "#26",
+					"Team": 14077,
+					"Car": 13398,
+					"Id": 14094,
+					"Class": 5825,
+					"TeamName": "Qan",
+					"drivers": [
+						{
+							"Forename": "Fernando",
+							"Surname": "Ribas",
+							"Id": 5850
+						}
+					]
+				},
+				{
+					"Name": "#27",
+					"Team": 14077,
+					"Car": 13398,
+					"Id": 14095,
+					"Class": 5825,
+					"TeamName": "Qan",
+					"drivers": [
+						{
+							"Forename": "Glenn",
+							"Surname": "Brasher",
+							"Id": 5858
+						}
+					]
+				},
+				{
+					"Name": "#28",
+					"Team": 14079,
+					"Car": 13398,
+					"Id": 14096,
+					"Class": 5825,
+					"TeamName": "Moser.Watch",
+					"drivers": [
+						{
+							"Forename": "Bernard",
+							"Surname": "de Villiers",
+							"Id": 5651
+						}
+					]
+				},
+				{
+					"Name": "#4",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14097,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Claudio",
+							"Surname": "Vincento",
+							"Id": 4736
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 14078,
+					"Car": 13398,
+					"Id": 14098,
+					"Class": 5825,
+					"TeamName": "Shamir",
+					"drivers": [
+						{
+							"Forename": "Markus",
+							"Surname": "Hombach",
+							"Id": 5865
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 14078,
+					"Car": 13398,
+					"Id": 14099,
+					"Class": 5825,
+					"TeamName": "Shamir",
+					"drivers": [
+						{
+							"Forename": "Xavier",
+							"Surname": "Tournay",
+							"Id": 5852
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14100,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Riccardo",
+							"Surname": "Luna",
+							"Id": 5854
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14101,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Fred",
+							"Surname": "Bonneu",
+							"Id": 5844
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 14064,
+					"Car": 13398,
+					"Id": 14102,
+					"Class": 5825,
+					"TeamName": "Trak Racer",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Flarup",
+							"Id": 5867
+						}
+					]
 				}
 			]
 		},
@@ -61675,6 +62200,251 @@
 							"Forename": "Julien",
 							"Surname": "Andlauer",
 							"Id": 8022
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 13715,
+					"Car": 13524,
+					"Id": 13716,
+					"Class": 1703,
+					"TeamName": "Lionspeed GP",
+					"drivers": [
+						{
+							"Forename": "Laurens",
+							"Surname": "Vanthoor",
+							"Id": 6435
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 13715,
+					"Car": 13524,
+					"Id": 13717,
+					"Class": 1703,
+					"TeamName": "Lionspeed GP",
+					"drivers": [
+						{
+							"Forename": "Max",
+							"Surname": "Hofer",
+							"Id": 9718
+						}
+					]
+				}
+			]
+		},
+		"13539": {
+			"Name": "Peugeot 406 Super Touring 1998",
+			"BrandName": "Peugeot",
+			"CarManufacturer": 7074,
+			"DefaultLivery": 13672,
+			"Id": 13539,
+			"Class": 1710,
+			"liveries": [
+				{
+					"Name": "#01",
+					"Team": 13540,
+					"Car": 13539,
+					"Id": 13541,
+					"Class": 1710,
+					"TeamName": "Peugeot Esso",
+					"drivers": [
+						{
+							"Forename": "Laurent",
+							"Surname": "Aïello",
+							"Id": 13318
+						}
+					]
+				},
+				{
+					"Name": "#001",
+					"Team": 13665,
+					"Car": 13539,
+					"Id": 13666,
+					"Class": 1710,
+					"TeamName": "Gémo Sport",
+					"drivers": [
+						{
+							"Forename": "David",
+							"Surname": "Hallyday",
+							"Id": 7307
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 13540,
+					"Car": 13539,
+					"Id": 13667,
+					"Class": 1710,
+					"TeamName": "Peugeot Esso",
+					"drivers": [
+						{
+							"Forename": "Jörg",
+							"Surname": "van Ommen",
+							"Id": 6822
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 13665,
+					"Car": 13539,
+					"Id": 13668,
+					"Class": 1710,
+					"TeamName": "Gémo Sport",
+					"drivers": [
+						{
+							"Forename": "Patrick",
+							"Surname": "Herbert",
+							"Id": 13669
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 13670,
+					"Car": 13539,
+					"Id": 13671,
+					"Class": 1710,
+					"TeamName": "Esso Ultron Team Peugeot",
+					"drivers": [
+						{
+							"Forename": "Tim",
+							"Surname": "Harvey",
+							"Id": 10750
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 13670,
+					"Car": 13539,
+					"Id": 13672,
+					"Class": 1710,
+					"TeamName": "Esso Ultron Team Peugeot",
+					"drivers": [
+						{
+							"Forename": "Paul",
+							"Surname": "Radisich",
+							"Id": 13673
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 13540,
+					"Car": 13539,
+					"Id": 13674,
+					"Class": 1710,
+					"TeamName": "Peugeot Esso",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Bartels",
+							"Id": 12590
+						}
+					]
+				},
+				{
+					"Name": "#1",
+					"Team": 13676,
+					"Car": 13539,
+					"Id": 13677,
+					"Class": 1710,
+					"TeamName": "Taxi Marseille",
+					"drivers": [
+						{
+							"Forename": "Daniel",
+							"Surname": "Morales",
+							"Id": 13675
+						}
+					]
+				}
+			]
+		},
+		"13548": {
+			"Name": "Ford Mondeo Super Touring",
+			"BrandName": "Ford",
+			"CarManufacturer": 2626,
+			"DefaultLivery": 13550,
+			"Id": 13548,
+			"Class": 1710,
+			"liveries": [
+				{
+					"Name": "#2",
+					"Team": 13549,
+					"Car": 13548,
+					"Id": 13550,
+					"Class": 1710,
+					"TeamName": "Ford Team Mondeo",
+					"drivers": [
+						{
+							"Forename": "Anthony",
+							"Surname": "Reid",
+							"Id": 13658
+						}
+					]
+				},
+				{
+					"Name": "#3",
+					"Team": 13549,
+					"Car": 13548,
+					"Id": 13659,
+					"Class": 1710,
+					"TeamName": "Ford Team Mondeo",
+					"drivers": [
+						{
+							"Forename": "Rickard",
+							"Surname": "Rydell",
+							"Id": 12847
+						}
+					]
+				},
+				{
+					"Name": "#4",
+					"Team": 13549,
+					"Car": 13548,
+					"Id": 13660,
+					"Class": 1710,
+					"TeamName": "Ford Team Mondeo",
+					"drivers": [
+						{
+							"Forename": "Alain",
+							"Surname": "Menu",
+							"Id": 13234
+						}
+					]
+				},
+				{
+					"Name": "#32",
+					"Team": 13664,
+					"Car": 13548,
+					"Id": 13661,
+					"Class": 1710,
+					"TeamName": "Ford Mondeo Racing",
+					"drivers": [
+						{
+							"Forename": "Will",
+							"Surname": "Hoy",
+							"Id": 13246
+						}
+					]
+				},
+				{
+					"Name": "#55",
+					"Team": 13664,
+					"Car": 13548,
+					"Id": 13662,
+					"Class": 1710,
+					"TeamName": "Ford Mondeo Racing",
+					"drivers": [
+						{
+							"Forename": "Nigel",
+							"Surname": "Mansell",
+							"Id": 13663
 						}
 					]
 				}
@@ -62030,6 +62800,491 @@
 							"Forename": "Ben",
 							"Surname": "Dörr",
 							"Id": 12818
+						}
+					]
+				}
+			]
+		},
+		"13679": {
+			"Name": "Abarth 1000 TCR",
+			"BrandName": "Abarth",
+			"CarManufacturer": 13682,
+			"DefaultLivery": 13704,
+			"Id": 13679,
+			"Class": 8483,
+			"liveries": [
+				{
+					"Name": "#2",
+					"Team": 13680,
+					"Car": 13679,
+					"Id": 13681,
+					"Class": 8483,
+					"TeamName": "Modelmakerij Aneko",
+					"drivers": [
+						{
+							"Forename": "Andre",
+							"Surname": "van Koeveringe",
+							"Id": 14015
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 13712,
+					"Car": 13679,
+					"Id": 13704,
+					"Class": 8483,
+					"TeamName": "Classic Racing Altena",
+					"drivers": [
+						{
+							"Forename": "Joop",
+							"Surname": "Schouten",
+							"Id": 13707
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 13712,
+					"Car": 13679,
+					"Id": 13705,
+					"Class": 8483,
+					"TeamName": "Classic Racing Altena",
+					"drivers": [
+						{
+							"Forename": "Jan",
+							"Surname": "Schouten",
+							"Id": 13706
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 13710,
+					"Car": 13679,
+					"Id": 13708,
+					"Class": 8483,
+					"TeamName": "Scuderia Topolino",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Männl",
+							"Id": 13709
+						}
+					]
+				},
+				{
+					"Name": "#015",
+					"Team": 13951,
+					"Car": 13679,
+					"Id": 13952,
+					"Class": 8483,
+					"TeamName": "Leo Kröner",
+					"drivers": [
+						{
+							"Forename": "Leo",
+							"Surname": "Kröner",
+							"Id": 13976
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 13953,
+					"Car": 13679,
+					"Id": 13954,
+					"Class": 8483,
+					"TeamName": "Tessaro Team",
+					"drivers": [
+						{
+							"Forename": "Graziano",
+							"Surname": "Tessaro",
+							"Id": 13997
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 13955,
+					"Car": 13679,
+					"Id": 13956,
+					"Class": 8483,
+					"TeamName": "Scuderia Topolino",
+					"drivers": [
+						{
+							"Forename": "Frank",
+							"Surname": "Kehlenbeck",
+							"Id": 14055
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 13957,
+					"Car": 13679,
+					"Id": 13958,
+					"Class": 8483,
+					"TeamName": "Fahrradplus",
+					"drivers": [
+						{
+							"Forename": "Ingmar",
+							"Surname": "Koschnick",
+							"Id": 14003
+						}
+					]
+				},
+				{
+					"Name": "#28",
+					"Team": 13959,
+					"Car": 13679,
+					"Id": 13960,
+					"Class": 8483,
+					"TeamName": "Josef Schichl",
+					"drivers": [
+						{
+							"Forename": "Josef",
+							"Surname": "Schichl",
+							"Id": 14005
+						}
+					]
+				},
+				{
+					"Name": "#39",
+					"Team": 13961,
+					"Car": 13679,
+					"Id": 13962,
+					"Class": 8483,
+					"TeamName": "Scuderia Topolino",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Feyl",
+							"Id": 13711
+						}
+					]
+				},
+				{
+					"Name": "#46",
+					"Team": 13963,
+					"Car": 13679,
+					"Id": 13964,
+					"Class": 8483,
+					"TeamName": "Tessaro Team",
+					"drivers": [
+						{
+							"Forename": "Francesco",
+							"Surname": "Tessaro",
+							"Id": 14007
+						}
+					]
+				},
+				{
+					"Name": "#59",
+					"Team": 13965,
+					"Car": 13679,
+					"Id": 13966,
+					"Class": 8483,
+					"TeamName": "Manfred Niederberger",
+					"drivers": [
+						{
+							"Forename": "Manfred",
+							"Surname": "Niederberger",
+							"Id": 14009
+						}
+					]
+				},
+				{
+					"Name": "#64",
+					"Team": 13967,
+					"Car": 13679,
+					"Id": 13968,
+					"Class": 8483,
+					"TeamName": "Tessaro Team",
+					"drivers": [
+						{
+							"Forename": "Andrea",
+							"Surname": "Tessaro",
+							"Id": 14011
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 13969,
+					"Car": 13679,
+					"Id": 13970,
+					"Class": 8483,
+					"TeamName": "Peter Walter",
+					"drivers": [
+						{
+							"Forename": "Peter",
+							"Surname": "Walter",
+							"Id": 14013
+						}
+					]
+				},
+				{
+					"Name": "#1",
+					"Team": 13993,
+					"Car": 13679,
+					"Id": 13994,
+					"Class": 8483,
+					"TeamName": "Hubert Nagl",
+					"drivers": [
+						{
+							"Forename": "Hubert",
+							"Surname": "Nagl",
+							"Id": 13995
+						}
+					]
+				}
+			]
+		},
+		"13945": {
+			"Name": "Mini Cooper S MK.3",
+			"BrandName": "Mini",
+			"CarManufacturer": 13949,
+			"DefaultLivery": 13982,
+			"Id": 13945,
+			"Class": 8483,
+			"liveries": [
+				{
+					"Name": "#225",
+					"Team": 13983,
+					"Car": 13945,
+					"Id": 13946,
+					"Class": 8483,
+					"TeamName": "Rainer Klockenhoff",
+					"drivers": [
+						{
+							"Forename": "Rainer",
+							"Surname": "Klockenhoff",
+							"Id": 14026
+						}
+					]
+				},
+				{
+					"Name": "#1",
+					"Team": 13947,
+					"Car": 13945,
+					"Id": 13980,
+					"Class": 8483,
+					"TeamName": "Rowan Hodgkinson Racing",
+					"drivers": [
+						{
+							"Forename": "Rowan",
+							"Surname": "Hodgkinson",
+							"Id": 14060
+						}
+					]
+				},
+				{
+					"Name": "#211",
+					"Team": 13983,
+					"Car": 13945,
+					"Id": 13982,
+					"Class": 8483,
+					"TeamName": "Max Lüerßen",
+					"drivers": [
+						{
+							"Forename": "Max",
+							"Surname": "Lüerßen",
+							"Id": 14022
+						}
+					]
+				},
+				{
+					"Name": "#216",
+					"Team": 14058,
+					"Car": 13945,
+					"Id": 13984,
+					"Class": 8483,
+					"TeamName": "Winners Rally Team",
+					"drivers": [
+						{
+							"Forename": "Alberto",
+							"Surname": "Pinna",
+							"Id": 14024
+						}
+					]
+				},
+				{
+					"Name": "#236",
+					"Team": 14030,
+					"Car": 13945,
+					"Id": 13985,
+					"Class": 8483,
+					"TeamName": "Wein Racing Team",
+					"drivers": [
+						{
+							"Forename": "Herbert",
+							"Surname": "Wein",
+							"Id": 14028
+						}
+					]
+				},
+				{
+					"Name": "#237",
+					"Team": 13983,
+					"Car": 13945,
+					"Id": 13986,
+					"Class": 8483,
+					"TeamName": "Max Baumgart",
+					"drivers": [
+						{
+							"Forename": "Max",
+							"Surname": "Baumgart",
+							"Id": 14051
+						}
+					]
+				},
+				{
+					"Name": "#252",
+					"Team": 13981,
+					"Car": 13945,
+					"Id": 13987,
+					"Class": 8483,
+					"TeamName": "MiniNerds International Race Team",
+					"drivers": [
+						{
+							"Forename": "Stephan",
+							"Surname": "Keiselt",
+							"Id": 14032
+						}
+					]
+				},
+				{
+					"Name": "#259",
+					"Team": 13983,
+					"Car": 13945,
+					"Id": 13988,
+					"Class": 8483,
+					"TeamName": "Patrick Kühnel",
+					"drivers": [
+						{
+							"Forename": "Patrick",
+							"Surname": "Kühnel",
+							"Id": 14040
+						}
+					]
+				},
+				{
+					"Name": "#269",
+					"Team": 14057,
+					"Car": 13945,
+					"Id": 13989,
+					"Class": 8483,
+					"TeamName": "MadHatter Racing Flanders",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Arcidiacone",
+							"Id": 14045
+						}
+					]
+				},
+				{
+					"Name": "#288",
+					"Team": 14042,
+					"Car": 13945,
+					"Id": 13990,
+					"Class": 8483,
+					"TeamName": "RHC Racing Team",
+					"drivers": [
+						{
+							"Forename": "Hans",
+							"Surname": "Stuckart",
+							"Id": 14053
+						}
+					]
+				},
+				{
+					"Name": "#292",
+					"Team": 13983,
+					"Car": 13945,
+					"Id": 13991,
+					"Class": 8483,
+					"TeamName": "Philipp Schulten",
+					"drivers": [
+						{
+							"Forename": "Philipp",
+							"Surname": "Schulten",
+							"Id": 14047
+						}
+					]
+				},
+				{
+					"Name": "#293",
+					"Team": 13981,
+					"Car": 13945,
+					"Id": 13992,
+					"Class": 8483,
+					"TeamName": "MiniNerds International Race Team",
+					"drivers": [
+						{
+							"Forename": "Jörg",
+							"Surname": "Büchel",
+							"Id": 14049
+						}
+					]
+				},
+				{
+					"Name": "#253",
+					"Team": 13983,
+					"Car": 13945,
+					"Id": 14018,
+					"Class": 8483,
+					"TeamName": "Friedhelm Thelen",
+					"drivers": [
+						{
+							"Forename": "Friedhelm",
+							"Surname": "Thelen",
+							"Id": 14034
+						}
+					]
+				},
+				{
+					"Name": "#254",
+					"Team": 14031,
+					"Car": 13945,
+					"Id": 14019,
+					"Class": 8483,
+					"TeamName": "Swiss Mini Racing Team",
+					"drivers": [
+						{
+							"Forename": "Walter",
+							"Surname": "Kaufmann",
+							"Id": 14036
+						}
+					]
+				},
+				{
+					"Name": "#255",
+					"Team": 14031,
+					"Car": 13945,
+					"Id": 14020,
+					"Class": 8483,
+					"TeamName": "Swiss Mini Racing Team",
+					"drivers": [
+						{
+							"Forename": "Gregor",
+							"Surname": "Nick",
+							"Id": 14038
+						}
+					]
+				},
+				{
+					"Name": "#262",
+					"Team": 14059,
+					"Car": 13945,
+					"Id": 14021,
+					"Class": 8483,
+					"TeamName": "M3 Mini-Racing Team",
+					"drivers": [
+						{
+							"Forename": "Maik",
+							"Surname": "Draut",
+							"Id": 14043
 						}
 					]
 				}
@@ -73467,7 +74722,7 @@
 			"Team": 4811,
 			"Car": 4810,
 			"Id": 4946,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Diggleton Racing",
 			"drivers": [
 				{
@@ -73482,7 +74737,7 @@
 			"Team": 4995,
 			"Car": 4810,
 			"Id": 4947,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Marc CL Racing",
 			"drivers": [
 				{
@@ -73497,7 +74752,7 @@
 			"Team": 4996,
 			"Car": 4810,
 			"Id": 4948,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Jägerbomb Motor",
 			"drivers": [
 				{
@@ -73512,7 +74767,7 @@
 			"Team": 5020,
 			"Car": 4810,
 			"Id": 4949,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Horizon 75",
 			"drivers": [
 				{
@@ -73527,7 +74782,7 @@
 			"Team": 4998,
 			"Car": 4810,
 			"Id": 4950,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Spiess Tuning",
 			"drivers": [
 				{
@@ -73542,7 +74797,7 @@
 			"Team": 4997,
 			"Car": 4810,
 			"Id": 4951,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Bergmeister KG",
 			"drivers": [
 				{
@@ -73557,7 +74812,7 @@
 			"Team": 5021,
 			"Car": 4810,
 			"Id": 4952,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Friedmann",
 			"drivers": [
 				{
@@ -73572,7 +74827,7 @@
 			"Team": 5022,
 			"Car": 4810,
 			"Id": 4953,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Raiffeisen Racing",
 			"drivers": [
 				{
@@ -73587,7 +74842,7 @@
 			"Team": 5023,
 			"Car": 4810,
 			"Id": 4954,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Kvantum Team",
 			"drivers": [
 				{
@@ -73602,7 +74857,7 @@
 			"Team": 5024,
 			"Car": 4810,
 			"Id": 4955,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "TNT Farben",
 			"drivers": [
 				{
@@ -73617,7 +74872,7 @@
 			"Team": 5025,
 			"Car": 4810,
 			"Id": 4956,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Sekurit-Glas Union",
 			"drivers": [
 				{
@@ -73632,7 +74887,7 @@
 			"Team": 4999,
 			"Car": 4810,
 			"Id": 4957,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "TMU Group",
 			"drivers": [
 				{
@@ -73647,7 +74902,7 @@
 			"Team": 5000,
 			"Car": 4810,
 			"Id": 4958,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Randstad Team",
 			"drivers": [
 				{
@@ -73662,7 +74917,7 @@
 			"Team": 5001,
 			"Car": 4810,
 			"Id": 4959,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Blue Checks Motor",
 			"drivers": [
 				{
@@ -73677,7 +74932,7 @@
 			"Team": 5002,
 			"Car": 4810,
 			"Id": 4960,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Error 500",
 			"drivers": [
 				{
@@ -73692,7 +74947,7 @@
 			"Team": 5003,
 			"Car": 4810,
 			"Id": 4961,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Gulf Racing",
 			"drivers": [
 				{
@@ -73707,7 +74962,7 @@
 			"Team": 5004,
 			"Car": 4810,
 			"Id": 4962,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Castrol Racing",
 			"drivers": [
 				{
@@ -73722,7 +74977,7 @@
 			"Team": 5015,
 			"Car": 4810,
 			"Id": 4963,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Tolles Autohaus",
 			"drivers": [
 				{
@@ -73737,7 +74992,7 @@
 			"Team": 5016,
 			"Car": 4810,
 			"Id": 4964,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Revell Team",
 			"drivers": [
 				{
@@ -73752,7 +75007,7 @@
 			"Team": 5017,
 			"Car": 4810,
 			"Id": 4965,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Bartolome Racing",
 			"drivers": [
 				{
@@ -73767,7 +75022,7 @@
 			"Team": 4811,
 			"Car": 4810,
 			"Id": 4966,
-			"Class": 4813,
+			"Class": 8483,
 			"TeamName": "Recaro",
 			"drivers": [
 				{
@@ -89318,7 +90573,7 @@
 			]
 		},
 		"8146": {
-			"Name": "#5",
+			"Name": "#05",
 			"Team": 8361,
 			"Car": 7805,
 			"Id": 8146,
@@ -89963,7 +91218,7 @@
 			]
 		},
 		"8247": {
-			"Name": "#7",
+			"Name": "#07",
 			"Team": 8212,
 			"Car": 8053,
 			"Id": 8247,
@@ -101048,7 +102303,7 @@
 			]
 		},
 		"10291": {
-			"Name": "#96",
+			"Name": "#096",
 			"Team": 8224,
 			"Car": 8053,
 			"Id": 10291,
@@ -120047,6 +121302,36 @@
 				}
 			]
 		},
+		"13541": {
+			"Name": "#01",
+			"Team": 13540,
+			"Car": 13539,
+			"Id": 13541,
+			"Class": 1710,
+			"TeamName": "Peugeot Esso",
+			"drivers": [
+				{
+					"Forename": "Laurent",
+					"Surname": "Aïello",
+					"Id": 13318
+				}
+			]
+		},
+		"13550": {
+			"Name": "#2",
+			"Team": 13549,
+			"Car": 13548,
+			"Id": 13550,
+			"Class": 1710,
+			"TeamName": "Ford Team Mondeo",
+			"drivers": [
+				{
+					"Forename": "Anthony",
+					"Surname": "Reid",
+					"Id": 13658
+				}
+			]
+		},
 		"13554": {
 			"Name": "#82",
 			"Team": 13553,
@@ -120511,6 +121796,1191 @@
 					"Id": 12818
 				}
 			]
+		},
+		"13657": {
+			"Name": "#9",
+			"Team": 2053,
+			"Car": 258,
+			"Id": 13657,
+			"Class": 1685,
+			"TeamName": "Georg Plasa",
+			"drivers": [
+				{
+					"Forename": "Georg",
+					"Surname": "Plasa",
+					"Id": 2941
+				}
+			]
+		},
+		"13659": {
+			"Name": "#3",
+			"Team": 13549,
+			"Car": 13548,
+			"Id": 13659,
+			"Class": 1710,
+			"TeamName": "Ford Team Mondeo",
+			"drivers": [
+				{
+					"Forename": "Rickard",
+					"Surname": "Rydell",
+					"Id": 12847
+				}
+			]
+		},
+		"13660": {
+			"Name": "#4",
+			"Team": 13549,
+			"Car": 13548,
+			"Id": 13660,
+			"Class": 1710,
+			"TeamName": "Ford Team Mondeo",
+			"drivers": [
+				{
+					"Forename": "Alain",
+					"Surname": "Menu",
+					"Id": 13234
+				}
+			]
+		},
+		"13661": {
+			"Name": "#32",
+			"Team": 13664,
+			"Car": 13548,
+			"Id": 13661,
+			"Class": 1710,
+			"TeamName": "Ford Mondeo Racing",
+			"drivers": [
+				{
+					"Forename": "Will",
+					"Surname": "Hoy",
+					"Id": 13246
+				}
+			]
+		},
+		"13662": {
+			"Name": "#55",
+			"Team": 13664,
+			"Car": 13548,
+			"Id": 13662,
+			"Class": 1710,
+			"TeamName": "Ford Mondeo Racing",
+			"drivers": [
+				{
+					"Forename": "Nigel",
+					"Surname": "Mansell",
+					"Id": 13663
+				}
+			]
+		},
+		"13666": {
+			"Name": "#001",
+			"Team": 13665,
+			"Car": 13539,
+			"Id": 13666,
+			"Class": 1710,
+			"TeamName": "Gémo Sport",
+			"drivers": [
+				{
+					"Forename": "David",
+					"Surname": "Hallyday",
+					"Id": 7307
+				}
+			]
+		},
+		"13667": {
+			"Name": "#2",
+			"Team": 13540,
+			"Car": 13539,
+			"Id": 13667,
+			"Class": 1710,
+			"TeamName": "Peugeot Esso",
+			"drivers": [
+				{
+					"Forename": "Jörg",
+					"Surname": "van Ommen",
+					"Id": 6822
+				}
+			]
+		},
+		"13668": {
+			"Name": "#5",
+			"Team": 13665,
+			"Car": 13539,
+			"Id": 13668,
+			"Class": 1710,
+			"TeamName": "Gémo Sport",
+			"drivers": [
+				{
+					"Forename": "Patrick",
+					"Surname": "Herbert",
+					"Id": 13669
+				}
+			]
+		},
+		"13671": {
+			"Name": "#9",
+			"Team": 13670,
+			"Car": 13539,
+			"Id": 13671,
+			"Class": 1710,
+			"TeamName": "Esso Ultron Team Peugeot",
+			"drivers": [
+				{
+					"Forename": "Tim",
+					"Surname": "Harvey",
+					"Id": 10750
+				}
+			]
+		},
+		"13672": {
+			"Name": "#11",
+			"Team": 13670,
+			"Car": 13539,
+			"Id": 13672,
+			"Class": 1710,
+			"TeamName": "Esso Ultron Team Peugeot",
+			"drivers": [
+				{
+					"Forename": "Paul",
+					"Surname": "Radisich",
+					"Id": 13673
+				}
+			]
+		},
+		"13674": {
+			"Name": "#21",
+			"Team": 13540,
+			"Car": 13539,
+			"Id": 13674,
+			"Class": 1710,
+			"TeamName": "Peugeot Esso",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Bartels",
+					"Id": 12590
+				}
+			]
+		},
+		"13677": {
+			"Name": "#1",
+			"Team": 13676,
+			"Car": 13539,
+			"Id": 13677,
+			"Class": 1710,
+			"TeamName": "Taxi Marseille",
+			"drivers": [
+				{
+					"Forename": "Daniel",
+					"Surname": "Morales",
+					"Id": 13675
+				}
+			]
+		},
+		"13681": {
+			"Name": "#2",
+			"Team": 13680,
+			"Car": 13679,
+			"Id": 13681,
+			"Class": 8483,
+			"TeamName": "Modelmakerij Aneko",
+			"drivers": [
+				{
+					"Forename": "Andre",
+					"Surname": "van Koeveringe",
+					"Id": 14015
+				}
+			]
+		},
+		"13704": {
+			"Name": "#6",
+			"Team": 13712,
+			"Car": 13679,
+			"Id": 13704,
+			"Class": 8483,
+			"TeamName": "Classic Racing Altena",
+			"drivers": [
+				{
+					"Forename": "Joop",
+					"Surname": "Schouten",
+					"Id": 13707
+				}
+			]
+		},
+		"13705": {
+			"Name": "#13",
+			"Team": 13712,
+			"Car": 13679,
+			"Id": 13705,
+			"Class": 8483,
+			"TeamName": "Classic Racing Altena",
+			"drivers": [
+				{
+					"Forename": "Jan",
+					"Surname": "Schouten",
+					"Id": 13706
+				}
+			]
+		},
+		"13708": {
+			"Name": "#21",
+			"Team": 13710,
+			"Car": 13679,
+			"Id": 13708,
+			"Class": 8483,
+			"TeamName": "Scuderia Topolino",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Männl",
+					"Id": 13709
+				}
+			]
+		},
+		"13716": {
+			"Name": "#24",
+			"Team": 13715,
+			"Car": 13524,
+			"Id": 13716,
+			"Class": 1703,
+			"TeamName": "Lionspeed GP",
+			"drivers": [
+				{
+					"Forename": "Laurens",
+					"Surname": "Vanthoor",
+					"Id": 6435
+				}
+			]
+		},
+		"13717": {
+			"Name": "#18",
+			"Team": 13715,
+			"Car": 13524,
+			"Id": 13717,
+			"Class": 1703,
+			"TeamName": "Lionspeed GP",
+			"drivers": [
+				{
+					"Forename": "Max",
+					"Surname": "Hofer",
+					"Id": 9718
+				}
+			]
+		},
+		"13718": {
+			"Name": "#6",
+			"Team": 2053,
+			"Car": 258,
+			"Id": 13718,
+			"Class": 1685,
+			"TeamName": "Georg Plasa",
+			"drivers": [
+				{
+					"Forename": "Georg",
+					"Surname": "Plasa",
+					"Id": 2941
+				}
+			]
+		},
+		"13946": {
+			"Name": "#225",
+			"Team": 13983,
+			"Car": 13945,
+			"Id": 13946,
+			"Class": 8483,
+			"TeamName": "Rainer Klockenhoff",
+			"drivers": [
+				{
+					"Forename": "Rainer",
+					"Surname": "Klockenhoff",
+					"Id": 14026
+				}
+			]
+		},
+		"13952": {
+			"Name": "#015",
+			"Team": 13951,
+			"Car": 13679,
+			"Id": 13952,
+			"Class": 8483,
+			"TeamName": "Leo Kröner",
+			"drivers": [
+				{
+					"Forename": "Leo",
+					"Surname": "Kröner",
+					"Id": 13976
+				}
+			]
+		},
+		"13954": {
+			"Name": "#15",
+			"Team": 13953,
+			"Car": 13679,
+			"Id": 13954,
+			"Class": 8483,
+			"TeamName": "Tessaro Team",
+			"drivers": [
+				{
+					"Forename": "Graziano",
+					"Surname": "Tessaro",
+					"Id": 13997
+				}
+			]
+		},
+		"13956": {
+			"Name": "#20",
+			"Team": 13955,
+			"Car": 13679,
+			"Id": 13956,
+			"Class": 8483,
+			"TeamName": "Scuderia Topolino",
+			"drivers": [
+				{
+					"Forename": "Frank",
+					"Surname": "Kehlenbeck",
+					"Id": 14055
+				}
+			]
+		},
+		"13958": {
+			"Name": "#22",
+			"Team": 13957,
+			"Car": 13679,
+			"Id": 13958,
+			"Class": 8483,
+			"TeamName": "Fahrradplus",
+			"drivers": [
+				{
+					"Forename": "Ingmar",
+					"Surname": "Koschnick",
+					"Id": 14003
+				}
+			]
+		},
+		"13960": {
+			"Name": "#28",
+			"Team": 13959,
+			"Car": 13679,
+			"Id": 13960,
+			"Class": 8483,
+			"TeamName": "Josef Schichl",
+			"drivers": [
+				{
+					"Forename": "Josef",
+					"Surname": "Schichl",
+					"Id": 14005
+				}
+			]
+		},
+		"13962": {
+			"Name": "#39",
+			"Team": 13961,
+			"Car": 13679,
+			"Id": 13962,
+			"Class": 8483,
+			"TeamName": "Scuderia Topolino",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Feyl",
+					"Id": 13711
+				}
+			]
+		},
+		"13964": {
+			"Name": "#46",
+			"Team": 13963,
+			"Car": 13679,
+			"Id": 13964,
+			"Class": 8483,
+			"TeamName": "Tessaro Team",
+			"drivers": [
+				{
+					"Forename": "Francesco",
+					"Surname": "Tessaro",
+					"Id": 14007
+				}
+			]
+		},
+		"13966": {
+			"Name": "#59",
+			"Team": 13965,
+			"Car": 13679,
+			"Id": 13966,
+			"Class": 8483,
+			"TeamName": "Manfred Niederberger",
+			"drivers": [
+				{
+					"Forename": "Manfred",
+					"Surname": "Niederberger",
+					"Id": 14009
+				}
+			]
+		},
+		"13968": {
+			"Name": "#64",
+			"Team": 13967,
+			"Car": 13679,
+			"Id": 13968,
+			"Class": 8483,
+			"TeamName": "Tessaro Team",
+			"drivers": [
+				{
+					"Forename": "Andrea",
+					"Surname": "Tessaro",
+					"Id": 14011
+				}
+			]
+		},
+		"13970": {
+			"Name": "#7",
+			"Team": 13969,
+			"Car": 13679,
+			"Id": 13970,
+			"Class": 8483,
+			"TeamName": "Peter Walter",
+			"drivers": [
+				{
+					"Forename": "Peter",
+					"Surname": "Walter",
+					"Id": 14013
+				}
+			]
+		},
+		"13980": {
+			"Name": "#1",
+			"Team": 13947,
+			"Car": 13945,
+			"Id": 13980,
+			"Class": 8483,
+			"TeamName": "Rowan Hodgkinson Racing",
+			"drivers": [
+				{
+					"Forename": "Rowan",
+					"Surname": "Hodgkinson",
+					"Id": 14060
+				}
+			]
+		},
+		"13982": {
+			"Name": "#211",
+			"Team": 13983,
+			"Car": 13945,
+			"Id": 13982,
+			"Class": 8483,
+			"TeamName": "Max Lüerßen",
+			"drivers": [
+				{
+					"Forename": "Max",
+					"Surname": "Lüerßen",
+					"Id": 14022
+				}
+			]
+		},
+		"13984": {
+			"Name": "#216",
+			"Team": 14058,
+			"Car": 13945,
+			"Id": 13984,
+			"Class": 8483,
+			"TeamName": "Winners Rally Team",
+			"drivers": [
+				{
+					"Forename": "Alberto",
+					"Surname": "Pinna",
+					"Id": 14024
+				}
+			]
+		},
+		"13985": {
+			"Name": "#236",
+			"Team": 14030,
+			"Car": 13945,
+			"Id": 13985,
+			"Class": 8483,
+			"TeamName": "Wein Racing Team",
+			"drivers": [
+				{
+					"Forename": "Herbert",
+					"Surname": "Wein",
+					"Id": 14028
+				}
+			]
+		},
+		"13986": {
+			"Name": "#237",
+			"Team": 13983,
+			"Car": 13945,
+			"Id": 13986,
+			"Class": 8483,
+			"TeamName": "Max Baumgart",
+			"drivers": [
+				{
+					"Forename": "Max",
+					"Surname": "Baumgart",
+					"Id": 14051
+				}
+			]
+		},
+		"13987": {
+			"Name": "#252",
+			"Team": 13981,
+			"Car": 13945,
+			"Id": 13987,
+			"Class": 8483,
+			"TeamName": "MiniNerds International Race Team",
+			"drivers": [
+				{
+					"Forename": "Stephan",
+					"Surname": "Keiselt",
+					"Id": 14032
+				}
+			]
+		},
+		"13988": {
+			"Name": "#259",
+			"Team": 13983,
+			"Car": 13945,
+			"Id": 13988,
+			"Class": 8483,
+			"TeamName": "Patrick Kühnel",
+			"drivers": [
+				{
+					"Forename": "Patrick",
+					"Surname": "Kühnel",
+					"Id": 14040
+				}
+			]
+		},
+		"13989": {
+			"Name": "#269",
+			"Team": 14057,
+			"Car": 13945,
+			"Id": 13989,
+			"Class": 8483,
+			"TeamName": "MadHatter Racing Flanders",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Arcidiacone",
+					"Id": 14045
+				}
+			]
+		},
+		"13990": {
+			"Name": "#288",
+			"Team": 14042,
+			"Car": 13945,
+			"Id": 13990,
+			"Class": 8483,
+			"TeamName": "RHC Racing Team",
+			"drivers": [
+				{
+					"Forename": "Hans",
+					"Surname": "Stuckart",
+					"Id": 14053
+				}
+			]
+		},
+		"13991": {
+			"Name": "#292",
+			"Team": 13983,
+			"Car": 13945,
+			"Id": 13991,
+			"Class": 8483,
+			"TeamName": "Philipp Schulten",
+			"drivers": [
+				{
+					"Forename": "Philipp",
+					"Surname": "Schulten",
+					"Id": 14047
+				}
+			]
+		},
+		"13992": {
+			"Name": "#293",
+			"Team": 13981,
+			"Car": 13945,
+			"Id": 13992,
+			"Class": 8483,
+			"TeamName": "MiniNerds International Race Team",
+			"drivers": [
+				{
+					"Forename": "Jörg",
+					"Surname": "Büchel",
+					"Id": 14049
+				}
+			]
+		},
+		"13994": {
+			"Name": "#1",
+			"Team": 13993,
+			"Car": 13679,
+			"Id": 13994,
+			"Class": 8483,
+			"TeamName": "Hubert Nagl",
+			"drivers": [
+				{
+					"Forename": "Hubert",
+					"Surname": "Nagl",
+					"Id": 13995
+				}
+			]
+		},
+		"14018": {
+			"Name": "#253",
+			"Team": 13983,
+			"Car": 13945,
+			"Id": 14018,
+			"Class": 8483,
+			"TeamName": "Friedhelm Thelen",
+			"drivers": [
+				{
+					"Forename": "Friedhelm",
+					"Surname": "Thelen",
+					"Id": 14034
+				}
+			]
+		},
+		"14019": {
+			"Name": "#254",
+			"Team": 14031,
+			"Car": 13945,
+			"Id": 14019,
+			"Class": 8483,
+			"TeamName": "Swiss Mini Racing Team",
+			"drivers": [
+				{
+					"Forename": "Walter",
+					"Surname": "Kaufmann",
+					"Id": 14036
+				}
+			]
+		},
+		"14020": {
+			"Name": "#255",
+			"Team": 14031,
+			"Car": 13945,
+			"Id": 14020,
+			"Class": 8483,
+			"TeamName": "Swiss Mini Racing Team",
+			"drivers": [
+				{
+					"Forename": "Gregor",
+					"Surname": "Nick",
+					"Id": 14038
+				}
+			]
+		},
+		"14021": {
+			"Name": "#262",
+			"Team": 14059,
+			"Car": 13945,
+			"Id": 14021,
+			"Class": 8483,
+			"TeamName": "M3 Mini-Racing Team",
+			"drivers": [
+				{
+					"Forename": "Maik",
+					"Surname": "Draut",
+					"Id": 14043
+				}
+			]
+		},
+		"14065": {
+			"Name": "#003",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14065,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Paulo",
+					"Surname": "Giantille",
+					"Id": 4735
+				}
+			]
+		},
+		"14066": {
+			"Name": "#10",
+			"Team": 14076,
+			"Car": 13398,
+			"Id": 14066,
+			"Class": 5825,
+			"TeamName": "Tobii",
+			"drivers": [
+				{
+					"Forename": "Helmut",
+					"Surname": "Becker",
+					"Id": 4739
+				}
+			]
+		},
+		"14067": {
+			"Name": "#013",
+			"Team": 14077,
+			"Car": 13398,
+			"Id": 14067,
+			"Class": 5825,
+			"TeamName": "Qan",
+			"drivers": [
+				{
+					"Forename": "Kurt",
+					"Surname": "Langer",
+					"Id": 4744
+				}
+			]
+		},
+		"14068": {
+			"Name": "#02",
+			"Team": 14078,
+			"Car": 13398,
+			"Id": 14068,
+			"Class": 5825,
+			"TeamName": "Shamir",
+			"drivers": [
+				{
+					"Forename": "Christophe",
+					"Surname": "Pascal",
+					"Id": 4738
+				}
+			]
+		},
+		"14069": {
+			"Name": "#03",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14069,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Ricco",
+					"Surname": "Cardinale",
+					"Id": 4749
+				}
+			]
+		},
+		"14070": {
+			"Name": "#10",
+			"Team": 14076,
+			"Car": 13398,
+			"Id": 14070,
+			"Class": 5825,
+			"TeamName": "Tobii",
+			"drivers": [
+				{
+					"Forename": "Robert",
+					"Surname": "Davies",
+					"Id": 4745
+				}
+			]
+		},
+		"14071": {
+			"Name": "#13",
+			"Team": 14077,
+			"Car": 13398,
+			"Id": 14071,
+			"Class": 5825,
+			"TeamName": "Qan",
+			"drivers": [
+				{
+					"Forename": "Stéphane",
+					"Surname": "Gonfaron",
+					"Id": 4754
+				}
+			]
+		},
+		"14072": {
+			"Name": "#19",
+			"Team": 14103,
+			"Car": 13398,
+			"Id": 14072,
+			"Class": 5825,
+			"TeamName": "Businessolver",
+			"drivers": [
+				{
+					"Forename": "Akira",
+					"Surname": "Imanishi",
+					"Id": 4752
+				}
+			]
+		},
+		"14073": {
+			"Name": "#2",
+			"Team": 14078,
+			"Car": 13398,
+			"Id": 14073,
+			"Class": 5825,
+			"TeamName": "Shamir",
+			"drivers": [
+				{
+					"Forename": "Henri",
+					"Surname": "Latour",
+					"Id": 4730
+				}
+			]
+		},
+		"14074": {
+			"Name": "#0003",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14074,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Mario",
+					"Surname": "Innocenti",
+					"Id": 4732
+				}
+			]
+		},
+		"14075": {
+			"Name": "#31",
+			"Team": 14079,
+			"Car": 13398,
+			"Id": 14075,
+			"Class": 5825,
+			"TeamName": "Moser.Watch",
+			"drivers": [
+				{
+					"Forename": "Karl",
+					"Surname": "Sorensson",
+					"Id": 7588
+				}
+			]
+		},
+		"14081": {
+			"Name": "#11",
+			"Team": 14078,
+			"Car": 13398,
+			"Id": 14081,
+			"Class": 5825,
+			"TeamName": "Shamir",
+			"drivers": [
+				{
+					"Forename": "Arnaud",
+					"Surname": "Rutten",
+					"Id": 5870
+				}
+			]
+		},
+		"14082": {
+			"Name": "#12",
+			"Team": 14078,
+			"Car": 13398,
+			"Id": 14082,
+			"Class": 5825,
+			"TeamName": "Shamir",
+			"drivers": [
+				{
+					"Forename": "Emmanuel",
+					"Surname": "Panetier",
+					"Id": 4127
+				}
+			]
+		},
+		"14083": {
+			"Name": "#14",
+			"Team": 14103,
+			"Car": 13398,
+			"Id": 14083,
+			"Class": 5825,
+			"TeamName": "Businessolver",
+			"drivers": [
+				{
+					"Forename": "Giovanni",
+					"Surname": "Mancini",
+					"Id": 5851
+				}
+			]
+		},
+		"14084": {
+			"Name": "#15",
+			"Team": 14076,
+			"Car": 13398,
+			"Id": 14084,
+			"Class": 5825,
+			"TeamName": "Tobii",
+			"drivers": [
+				{
+					"Forename": "Kenny",
+					"Surname": "Clark",
+					"Id": 4750
+				}
+			]
+		},
+		"14085": {
+			"Name": "#16",
+			"Team": 14076,
+			"Car": 13398,
+			"Id": 14085,
+			"Class": 5825,
+			"TeamName": "Tobii",
+			"drivers": [
+				{
+					"Forename": "Mathieu",
+					"Surname": "d'Orleans",
+					"Id": 4746
+				}
+			]
+		},
+		"14086": {
+			"Name": "#17",
+			"Team": 14077,
+			"Car": 13398,
+			"Id": 14086,
+			"Class": 5825,
+			"TeamName": "Qan",
+			"drivers": [
+				{
+					"Forename": "Pablo",
+					"Surname": "Jiménez",
+					"Id": 5860
+				}
+			]
+		},
+		"14087": {
+			"Name": "#18",
+			"Team": 14077,
+			"Car": 13398,
+			"Id": 14087,
+			"Class": 5825,
+			"TeamName": "Qan",
+			"drivers": [
+				{
+					"Forename": "Kevin",
+					"Surname": "Miller",
+					"Id": 5871
+				}
+			]
+		},
+		"14088": {
+			"Name": "#20",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14088,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Éric",
+					"Surname": "Guillemot",
+					"Id": 5715
+				}
+			]
+		},
+		"14089": {
+			"Name": "#21",
+			"Team": 14103,
+			"Car": 13398,
+			"Id": 14089,
+			"Class": 5825,
+			"TeamName": "Businessolver",
+			"drivers": [
+				{
+					"Forename": "Emmanuel",
+					"Surname": "Panetier",
+					"Id": 4127
+				}
+			]
+		},
+		"14090": {
+			"Name": "#22",
+			"Team": 14079,
+			"Car": 13398,
+			"Id": 14090,
+			"Class": 5825,
+			"TeamName": "Moser.Watch",
+			"drivers": [
+				{
+					"Forename": "Harry",
+					"Surname": "Tama",
+					"Id": 5846
+				}
+			]
+		},
+		"14091": {
+			"Name": "#23",
+			"Team": 14076,
+			"Car": 13398,
+			"Id": 14091,
+			"Class": 5825,
+			"TeamName": "Tobii",
+			"drivers": [
+				{
+					"Forename": "Oskar",
+					"Surname": "Sannes",
+					"Id": 4471
+				}
+			]
+		},
+		"14092": {
+			"Name": "#24",
+			"Team": 14076,
+			"Car": 13398,
+			"Id": 14092,
+			"Class": 5825,
+			"TeamName": "Tobii",
+			"drivers": [
+				{
+					"Forename": "Yukio",
+					"Surname": "Oshima",
+					"Id": 4742
+				}
+			]
+		},
+		"14093": {
+			"Name": "#25",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14093,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Pietro",
+					"Surname": "Rosellini",
+					"Id": 4734
+				}
+			]
+		},
+		"14094": {
+			"Name": "#26",
+			"Team": 14077,
+			"Car": 13398,
+			"Id": 14094,
+			"Class": 5825,
+			"TeamName": "Qan",
+			"drivers": [
+				{
+					"Forename": "Fernando",
+					"Surname": "Ribas",
+					"Id": 5850
+				}
+			]
+		},
+		"14095": {
+			"Name": "#27",
+			"Team": 14077,
+			"Car": 13398,
+			"Id": 14095,
+			"Class": 5825,
+			"TeamName": "Qan",
+			"drivers": [
+				{
+					"Forename": "Glenn",
+					"Surname": "Brasher",
+					"Id": 5858
+				}
+			]
+		},
+		"14096": {
+			"Name": "#28",
+			"Team": 14079,
+			"Car": 13398,
+			"Id": 14096,
+			"Class": 5825,
+			"TeamName": "Moser.Watch",
+			"drivers": [
+				{
+					"Forename": "Bernard",
+					"Surname": "de Villiers",
+					"Id": 5651
+				}
+			]
+		},
+		"14097": {
+			"Name": "#4",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14097,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Claudio",
+					"Surname": "Vincento",
+					"Id": 4736
+				}
+			]
+		},
+		"14098": {
+			"Name": "#5",
+			"Team": 14078,
+			"Car": 13398,
+			"Id": 14098,
+			"Class": 5825,
+			"TeamName": "Shamir",
+			"drivers": [
+				{
+					"Forename": "Markus",
+					"Surname": "Hombach",
+					"Id": 5865
+				}
+			]
+		},
+		"14099": {
+			"Name": "#6",
+			"Team": 14078,
+			"Car": 13398,
+			"Id": 14099,
+			"Class": 5825,
+			"TeamName": "Shamir",
+			"drivers": [
+				{
+					"Forename": "Xavier",
+					"Surname": "Tournay",
+					"Id": 5852
+				}
+			]
+		},
+		"14100": {
+			"Name": "#7",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14100,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Riccardo",
+					"Surname": "Luna",
+					"Id": 5854
+				}
+			]
+		},
+		"14101": {
+			"Name": "#8",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14101,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Fred",
+					"Surname": "Bonneu",
+					"Id": 5844
+				}
+			]
+		},
+		"14102": {
+			"Name": "#9",
+			"Team": 14064,
+			"Car": 13398,
+			"Id": 14102,
+			"Class": 5825,
+			"TeamName": "Trak Racer",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Flarup",
+					"Id": 5867
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -120557,7 +123027,7 @@
 			]
 		},
 		"1670": {
-			"Name": "Monza Circuit",
+			"Name": "Autodromo di Monza",
 			"Id": 1670,
 			"layouts": [
 				{
@@ -120575,7 +123045,7 @@
 			]
 		},
 		"1673": {
-			"Name": "Mid Ohio",
+			"Name": "Mid-Ohio Sports Car Course",
 			"Id": 1673,
 			"layouts": [
 				{
@@ -120599,7 +123069,7 @@
 			]
 		},
 		"1677": {
-			"Name": "Circuit Zandvoort 2019",
+			"Name": "Circuit Zandvoort - 2019",
 			"Id": 1677,
 			"layouts": [
 				{
@@ -120653,7 +123123,7 @@
 			]
 		},
 		"1690": {
-			"Name": "Nürburgring",
+			"Name": "Nürburgring - Grand Prix",
 			"Id": 1690,
 			"layouts": [
 				{
@@ -120689,7 +123159,7 @@
 			]
 		},
 		"1692": {
-			"Name": "Hockenheimring",
+			"Name": "Hockenheimring - Modern",
 			"Id": 1692,
 			"layouts": [
 				{
@@ -120731,7 +123201,7 @@
 			]
 		},
 		"1771": {
-			"Name": "Portimao Circuit",
+			"Name": "Autodromo Internacional do Algarve",
 			"Id": 1771,
 			"layouts": [
 				{
@@ -120761,7 +123231,7 @@
 			]
 		},
 		"1840": {
-			"Name": "Suzuka Circuit",
+			"Name": "Suzuka International Racing Course",
 			"Id": 1840,
 			"layouts": [
 				{
@@ -120785,7 +123255,7 @@
 			]
 		},
 		"1845": {
-			"Name": "Bathurst Circuit",
+			"Name": "Mount Panorama Circuit",
 			"Id": 1845,
 			"layouts": [
 				{
@@ -120797,7 +123267,7 @@
 			]
 		},
 		"1849": {
-			"Name": "Imola",
+			"Name": "Autódromo Internazionale Enzo e Dino Ferrari",
 			"Id": 1849,
 			"layouts": [
 				{
@@ -120809,7 +123279,7 @@
 			]
 		},
 		"1851": {
-			"Name": "Indianapolis 2012",
+			"Name": "Indianapolis Motor Speedway - 2012",
 			"Id": 1851,
 			"layouts": [
 				{
@@ -120857,7 +123327,7 @@
 			]
 		},
 		"1855": {
-			"Name": "WeatherTech Raceway Laguna Seca",
+			"Name": "WeatherTech Raceway Laguna Seca - Modern",
 			"Id": 1855,
 			"layouts": [
 				{
@@ -120881,7 +123351,7 @@
 			]
 		},
 		"2018": {
-			"Name": "Estoril Circuit",
+			"Name": "Autódromo Fernanda Pires da Silva",
 			"Id": 2018,
 			"layouts": [
 				{
@@ -120911,7 +123381,7 @@
 			]
 		},
 		"2021": {
-			"Name": "Shanghai Circuit",
+			"Name": "Shanghai International Circuit",
 			"Id": 2021,
 			"layouts": [
 				{
@@ -120935,7 +123405,7 @@
 			]
 		},
 		"2029": {
-			"Name": "Slovakia Ring",
+			"Name": "Automotodróm Slovakia Ring",
 			"Id": 2029,
 			"layouts": [
 				{
@@ -120947,7 +123417,7 @@
 			]
 		},
 		"2122": {
-			"Name": "Macau",
+			"Name": "Guia Circuit",
 			"Id": 2122,
 			"layouts": [
 				{
@@ -120959,7 +123429,7 @@
 			]
 		},
 		"2383": {
-			"Name": "Motorsport Arena Oschersleben",
+			"Name": "Motorsport Arena Oschersleben - Legacy",
 			"Id": 2383,
 			"layouts": [
 				{
@@ -120989,7 +123459,7 @@
 			]
 		},
 		"2467": {
-			"Name": "DEKRA Lausitzring",
+			"Name": "DEKRA Lausitzring - DEKRA Lausitzring",
 			"Id": 2467,
 			"layouts": [
 				{
@@ -121061,7 +123531,7 @@
 			]
 		},
 		"2519": {
-			"Name": "Brands Hatch Indy",
+			"Name": "Brands Hatch Circuit - Indy",
 			"Id": 2519,
 			"layouts": [
 				{
@@ -121097,37 +123567,37 @@
 			]
 		},
 		"2812": {
-			"Name": "Nordschleife",
+			"Name": "Nürburgring - Nordschleife",
 			"Id": 2812,
 			"layouts": [
 				{
 					"Name": "Nordschleife",
 					"Track": 2812,
-					"MaxNumberOfVehicles": 32,
+					"MaxNumberOfVehicles": 54,
 					"Id": 2813
 				},
 				{
 					"Name": "NLS",
 					"Track": 2812,
-					"MaxNumberOfVehicles": 100,
+					"MaxNumberOfVehicles": 102,
 					"Id": 4975
 				},
 				{
 					"Name": "Tourist",
 					"Track": 2812,
-					"MaxNumberOfVehicles": 48,
+					"MaxNumberOfVehicles": 72,
 					"Id": 5093
 				},
 				{
 					"Name": "24 Hours",
 					"Track": 2812,
-					"MaxNumberOfVehicles": 100,
+					"MaxNumberOfVehicles": 102,
 					"Id": 5095
 				}
 			]
 		},
 		"2866": {
-			"Name": "Paul Ricard",
+			"Name": "Circuit Paul Ricard",
 			"Id": 2866,
 			"layouts": [
 				{
@@ -121163,7 +123633,7 @@
 			]
 		},
 		"3463": {
-			"Name": "Zhuhai Circuit",
+			"Name": "Zhuhai International Circuit",
 			"Id": 3463,
 			"layouts": [
 				{
@@ -121187,7 +123657,7 @@
 			]
 		},
 		"3869": {
-			"Name": "Spa-Francorchamps 2015",
+			"Name": "Circuit de Spa-Francorchamps - 2015",
 			"Id": 3869,
 			"layouts": [
 				{
@@ -121211,7 +123681,7 @@
 			]
 		},
 		"4038": {
-			"Name": "Silverstone Circuit",
+			"Name": "Silverstone Circuit - Modern",
 			"Id": 4038,
 			"layouts": [
 				{
@@ -121271,7 +123741,7 @@
 			]
 		},
 		"5297": {
-			"Name": "Brno",
+			"Name": "CREDITAS Autodrom Brno",
 			"Id": 5297,
 			"layouts": [
 				{
@@ -121289,7 +123759,7 @@
 			]
 		},
 		"5300": {
-			"Name": "Anderstorp Raceway",
+			"Name": "Anderstorp Motorbana",
 			"Id": 5300,
 			"layouts": [
 				{
@@ -121343,7 +123813,7 @@
 			]
 		},
 		"6053": {
-			"Name": "Stowe Circuit",
+			"Name": "Silverstone Circuit - Stowe Circuit",
 			"Id": 6053,
 			"layouts": [
 				{
@@ -121373,7 +123843,7 @@
 			]
 		},
 		"6139": {
-			"Name": "Falkenberg Motorbana",
+			"Name": "Falkenbergs Motorbana",
 			"Id": 6139,
 			"layouts": [
 				{
@@ -121385,7 +123855,7 @@
 			]
 		},
 		"6340": {
-			"Name": "Sepang",
+			"Name": "Sepang International Circuit",
 			"Id": 6340,
 			"layouts": [
 				{
@@ -121475,7 +123945,7 @@
 			]
 		},
 		"7272": {
-			"Name": "Ningbo International Speedpark",
+			"Name": "Ningbo International Circuit",
 			"Id": 7272,
 			"layouts": [
 				{
@@ -121547,7 +124017,7 @@
 			]
 		},
 		"8074": {
-			"Name": "Zhejiang Circuit",
+			"Name": "Zhejiang International Circuit",
 			"Id": 8074,
 			"layouts": [
 				{
@@ -121661,7 +124131,7 @@
 			]
 		},
 		"9320": {
-			"Name": "Genting Highlands Highway",
+			"Name": "Genting Highlands",
 			"Id": 9320,
 			"layouts": [
 				{
@@ -121703,7 +124173,7 @@
 			]
 		},
 		"9472": {
-			"Name": "Brands Hatch Grand Prix",
+			"Name": "Brands Hatch Circuit - Grand Prix",
 			"Id": 9472,
 			"layouts": [
 				{
@@ -121715,7 +124185,7 @@
 			]
 		},
 		"9657": {
-			"Name": "Nogaro Circuit Paul Armagnac",
+			"Name": "Circuit Paul Armagnac",
 			"Id": 9657,
 			"layouts": [
 				{
@@ -121757,7 +124227,7 @@
 			]
 		},
 		"9942": {
-			"Name": "Indianapolis Motor Speedway",
+			"Name": "Indianapolis Motor Speedway - Modern",
 			"Id": 9942,
 			"layouts": [
 				{
@@ -121805,7 +124275,7 @@
 			]
 		},
 		"10273": {
-			"Name": "Hockenheimring DMEC",
+			"Name": "Hockenheimring - DMEC",
 			"Id": 10273,
 			"layouts": [
 				{
@@ -121835,7 +124305,7 @@
 			]
 		},
 		"10462": {
-			"Name": "Interlagos",
+			"Name": "Autódromo José Carlos Pace",
 			"Id": 10462,
 			"layouts": [
 				{
@@ -121847,7 +124317,7 @@
 			]
 		},
 		"10781": {
-			"Name": "Circuit Zandvoort",
+			"Name": "Circuit Zandvoort - Modern",
 			"Id": 10781,
 			"layouts": [
 				{
@@ -121895,7 +124365,7 @@
 			]
 		},
 		"12111": {
-			"Name": "Hockenheimring Classic",
+			"Name": "Hockenheimring - 2001",
 			"Id": 12111,
 			"layouts": [
 				{
@@ -121913,7 +124383,7 @@
 			]
 		},
 		"12267": {
-			"Name": "Silverstone Circuit Classic",
+			"Name": "Silverstone Circuit - 2001",
 			"Id": 12267,
 			"layouts": [
 				{
@@ -121929,7 +124399,7 @@
 					"Id": 12389
 				},
 				{
-					"Name": "International",
+					"Name": "Moto International",
 					"Track": 12267,
 					"MaxNumberOfVehicles": 56,
 					"Id": 12390
@@ -121967,7 +124437,7 @@
 			]
 		},
 		"12505": {
-			"Name": "Motorsport Arena Oschersleben 2024",
+			"Name": "Motorsport Arena Oschersleben - Motorsport Arena Oschersleben",
 			"Id": 12505,
 			"layouts": [
 				{
@@ -122003,7 +124473,7 @@
 			]
 		},
 		"13186": {
-			"Name": "Vallelunga",
+			"Name": "Autodromo Vallelunga Piero Taruffi",
 			"Id": 13186,
 			"layouts": [
 				{
@@ -122033,7 +124503,7 @@
 			]
 		},
 		"13255": {
-			"Name": "Circuit de Spa-Francorchamps",
+			"Name": "Circuit de Spa-Francorchamps - Modern",
 			"Id": 13255,
 			"layouts": [
 				{
@@ -122063,7 +124533,7 @@
 			]
 		},
 		"13350": {
-			"Name": "Adria International Raceway 2003",
+			"Name": "Adria International Raceway - 2003",
 			"Id": 13350,
 			"layouts": [
 				{
@@ -122075,7 +124545,7 @@
 			]
 		},
 		"13424": {
-			"Name": "Adria International Raceway 2021",
+			"Name": "Adria International Raceway - 2021",
 			"Id": 13424,
 			"layouts": [
 				{
@@ -122083,6 +124553,60 @@
 					"Track": 13424,
 					"MaxNumberOfVehicles": 36,
 					"Id": 13425
+				}
+			]
+		},
+		"13427": {
+			"Name": "Circuit de Spa-Francorchamps - 1995",
+			"Id": 13427,
+			"layouts": [
+				{
+					"Name": "Grand Prix",
+					"Track": 13427,
+					"MaxNumberOfVehicles": 37,
+					"Id": 13428
+				},
+				{
+					"Name": "Endurance",
+					"Track": 13427,
+					"MaxNumberOfVehicles": 99,
+					"Id": 13652
+				}
+			]
+		},
+		"13431": {
+			"Name": "Fliegerhorst Wunstorf",
+			"Id": 13431,
+			"layouts": [
+				{
+					"Name": "Full Circuit",
+					"Track": 13431,
+					"MaxNumberOfVehicles": 36,
+					"Id": 13432
+				}
+			]
+		},
+		"13532": {
+			"Name": "WeatherTech Raceway Laguna Seca - 1987",
+			"Id": 13532,
+			"layouts": [
+				{
+					"Name": "Grand Prix",
+					"Track": 13532,
+					"MaxNumberOfVehicles": 36,
+					"Id": 13533
+				}
+			]
+		},
+		"13631": {
+			"Name": "Glasbachrennen",
+			"Id": 13631,
+			"layouts": [
+				{
+					"Name": "Full Run",
+					"Track": 13631,
+					"MaxNumberOfVehicles": 1,
+					"Id": 13632
 				}
 			]
 		}
@@ -122391,7 +124915,7 @@
 		"2813": {
 			"Name": "Nordschleife",
 			"Track": 2812,
-			"MaxNumberOfVehicles": 32,
+			"MaxNumberOfVehicles": 54,
 			"Id": 2813
 		},
 		"2867": {
@@ -122517,19 +125041,19 @@
 		"4975": {
 			"Name": "NLS",
 			"Track": 2812,
-			"MaxNumberOfVehicles": 100,
+			"MaxNumberOfVehicles": 102,
 			"Id": 4975
 		},
 		"5093": {
 			"Name": "Tourist",
 			"Track": 2812,
-			"MaxNumberOfVehicles": 48,
+			"MaxNumberOfVehicles": 72,
 			"Id": 5093
 		},
 		"5095": {
 			"Name": "24 Hours",
 			"Track": 2812,
-			"MaxNumberOfVehicles": 100,
+			"MaxNumberOfVehicles": 102,
 			"Id": 5095
 		},
 		"5276": {
@@ -123091,7 +125615,7 @@
 			"Id": 12389
 		},
 		"12390": {
-			"Name": "International",
+			"Name": "Moto International",
 			"Track": 12267,
 			"MaxNumberOfVehicles": 56,
 			"Id": 12390
@@ -123198,16 +125722,47 @@
 			"MaxNumberOfVehicles": 36,
 			"Id": 13425
 		},
+		"13428": {
+			"Name": "Grand Prix",
+			"Track": 13427,
+			"MaxNumberOfVehicles": 37,
+			"Id": 13428
+		},
+		"13432": {
+			"Name": "Full Circuit",
+			"Track": 13431,
+			"MaxNumberOfVehicles": 36,
+			"Id": 13432
+		},
 		"13467": {
 			"Name": "Moto",
 			"Track": 13255,
 			"MaxNumberOfVehicles": 56,
 			"Id": 13467
+		},
+		"13533": {
+			"Name": "Grand Prix",
+			"Track": 13532,
+			"MaxNumberOfVehicles": 36,
+			"Id": 13533
+		},
+		"13632": {
+			"Name": "Full Run",
+			"Track": 13631,
+			"MaxNumberOfVehicles": 1,
+			"Id": 13632
+		},
+		"13652": {
+			"Name": "Endurance",
+			"Track": 13427,
+			"MaxNumberOfVehicles": 99,
+			"Id": 13652
 		}
 	},
 	"classes": {
 		"253": {
 			"Name": "FRJ Cup",
+			"PerformanceIndex": 369,
 			"Cars": [
 				{
 					"Id": 4865
@@ -123217,6 +125772,7 @@
 		},
 		"255": {
 			"Name": "Aquila CR1 Cup",
+			"PerformanceIndex": 346,
 			"Cars": [
 				{
 					"Id": 252
@@ -123226,6 +125782,7 @@
 		},
 		"1685": {
 			"Name": "Hillclimb Icons",
+			"PerformanceIndex": 298,
 			"Cars": [
 				{
 					"Id": 258
@@ -123241,6 +125798,7 @@
 		},
 		"1687": {
 			"Name": "GTR 1",
+			"PerformanceIndex": 329,
 			"Cars": [
 				{
 					"Id": 1779
@@ -123265,6 +125823,7 @@
 		},
 		"1703": {
 			"Name": "GTR 3",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 6057
@@ -123364,6 +125923,7 @@
 		},
 		"1704": {
 			"Name": "GTR 2",
+			"PerformanceIndex": 336,
 			"Cars": [
 				{
 					"Id": 1733
@@ -123385,6 +125945,7 @@
 		},
 		"1706": {
 			"Name": "German Nationals",
+			"PerformanceIndex": 329,
 			"Cars": [
 				{
 					"Id": 1744
@@ -123397,6 +125958,7 @@
 		},
 		"1708": {
 			"Name": "Group 5",
+			"PerformanceIndex": 343,
 			"Cars": [
 				{
 					"Id": 1700
@@ -123424,6 +125986,7 @@
 		},
 		"1710": {
 			"Name": "Super Touring",
+			"PerformanceIndex": 353,
 			"Cars": [
 				{
 					"Id": 13049
@@ -123435,10 +125998,16 @@
 					"Id": 12556
 				},
 				{
+					"Id": 13548
+				},
+				{
 					"Id": 8645
 				},
 				{
 					"Id": 13065
+				},
+				{
+					"Id": 13539
 				},
 				{
 					"Id": 13183
@@ -123454,6 +126023,7 @@
 		},
 		"1711": {
 			"Name": "Drift",
+			"PerformanceIndex": 354,
 			"Cars": [
 				{
 					"Id": 10604
@@ -123466,6 +126036,7 @@
 		},
 		"1712": {
 			"Name": "Touring Classics",
+			"PerformanceIndex": 373,
 			"Cars": [
 				{
 					"Id": 1862
@@ -123484,6 +126055,7 @@
 		},
 		"1713": {
 			"Name": "GTO Classics",
+			"PerformanceIndex": 341,
 			"Cars": [
 				{
 					"Id": 2405
@@ -123499,6 +126071,7 @@
 		},
 		"1714": {
 			"Name": "P1",
+			"PerformanceIndex": 296,
 			"Cars": [
 				{
 					"Id": 4308
@@ -123514,6 +126087,7 @@
 		},
 		"1717": {
 			"Name": "Silhouette Series",
+			"PerformanceIndex": 343,
 			"Cars": [
 				{
 					"Id": 1694
@@ -123532,6 +126106,7 @@
 		},
 		"1921": {
 			"Name": "DTM 2013",
+			"PerformanceIndex": 313,
 			"Cars": [
 				{
 					"Id": 2420
@@ -123547,6 +126122,7 @@
 		},
 		"1922": {
 			"Name": "WTCC 2013",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 2705
@@ -123568,6 +126144,7 @@
 		},
 		"1923": {
 			"Name": "P2",
+			"PerformanceIndex": 317,
 			"Cars": [
 				{
 					"Id": 2333
@@ -123589,6 +126166,7 @@
 		},
 		"2378": {
 			"Name": "Procar",
+			"PerformanceIndex": 348,
 			"Cars": [
 				{
 					"Id": 2339
@@ -123598,6 +126176,7 @@
 		},
 		"2922": {
 			"Name": "ADAC GT Masters 2013",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 2409
@@ -123625,6 +126204,7 @@
 		},
 		"3086": {
 			"Name": "DTM 2014",
+			"PerformanceIndex": 313,
 			"Cars": [
 				{
 					"Id": 3380
@@ -123640,6 +126220,7 @@
 		},
 		"3375": {
 			"Name": "ADAC GT Masters 2014",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 3500
@@ -123664,6 +126245,7 @@
 		},
 		"3499": {
 			"Name": "DTM 1992",
+			"PerformanceIndex": 350,
 			"Cars": [
 				{
 					"Id": 3662
@@ -123685,6 +126267,7 @@
 		},
 		"3905": {
 			"Name": "WTCC 2014",
+			"PerformanceIndex": 345,
 			"Cars": [
 				{
 					"Id": 4046
@@ -123703,6 +126286,7 @@
 		},
 		"4121": {
 			"Name": "Group C",
+			"PerformanceIndex": 293,
 			"Cars": [
 				{
 					"Id": 4114
@@ -123715,6 +126299,7 @@
 		},
 		"4260": {
 			"Name": "DTM 2015",
+			"PerformanceIndex": 313,
 			"Cars": [
 				{
 					"Id": 4261
@@ -123730,6 +126315,7 @@
 		},
 		"4516": {
 			"Name": "ADAC GT Masters 2015",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 4518
@@ -123757,6 +126343,7 @@
 		},
 		"4517": {
 			"Name": "WTCC 2015",
+			"PerformanceIndex": 345,
 			"Cars": [
 				{
 					"Id": 4579
@@ -123775,6 +126362,7 @@
 		},
 		"4597": {
 			"Name": "FR2 Cup",
+			"PerformanceIndex": 264,
 			"Cars": [
 				{
 					"Id": 4598
@@ -123784,6 +126372,7 @@
 		},
 		"4680": {
 			"Name": "Audi Sport TT Cup 2015",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 4681
@@ -123791,17 +126380,9 @@
 			],
 			"Id": 4680
 		},
-		"4813": {
-			"Name": "NSU TTS Cup",
-			"Cars": [
-				{
-					"Id": 4810
-				}
-			],
-			"Id": 4813
-		},
 		"4867": {
 			"Name": "Tatuus F4 Cup",
+			"PerformanceIndex": 339,
 			"Cars": [
 				{
 					"Id": 5051
@@ -123811,6 +126392,7 @@
 		},
 		"5234": {
 			"Name": "Audi TT RS cup",
+			"PerformanceIndex": 344,
 			"Cars": [
 				{
 					"Id": 4299
@@ -123820,6 +126402,7 @@
 		},
 		"5262": {
 			"Name": "DTM 2016",
+			"PerformanceIndex": 313,
 			"Cars": [
 				{
 					"Id": 5411
@@ -123835,6 +126418,7 @@
 		},
 		"5383": {
 			"Name": "FR US Cup",
+			"PerformanceIndex": 254,
 			"Cars": [
 				{
 					"Id": 5348
@@ -123844,6 +126428,7 @@
 		},
 		"5385": {
 			"Name": "KTM X-Bow RR Cup",
+			"PerformanceIndex": 343,
 			"Cars": [
 				{
 					"Id": 5342
@@ -123853,6 +126438,7 @@
 		},
 		"5634": {
 			"Name": "Mercedes-AMG Motorsport",
+			"PerformanceIndex": 313,
 			"Cars": [
 				{
 					"Id": 5259
@@ -123862,6 +126448,7 @@
 		},
 		"5652": {
 			"Name": "FR3 Cup",
+			"PerformanceIndex": 311,
 			"Cars": [
 				{
 					"Id": 5396
@@ -123871,6 +126458,7 @@
 		},
 		"5726": {
 			"Name": "Audi Sport TT Cup 2016",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 5588
@@ -123880,6 +126468,7 @@
 		},
 		"5824": {
 			"Name": "FR X-17 Cup",
+			"PerformanceIndex": 200,
 			"Cars": [
 				{
 					"Id": 5821
@@ -123889,6 +126478,7 @@
 		},
 		"5825": {
 			"Name": "GTR 4",
+			"PerformanceIndex": 357,
 			"Cars": [
 				{
 					"Id": 13398
@@ -123925,6 +126515,7 @@
 		},
 		"6036": {
 			"Name": "WTCC 2016",
+			"PerformanceIndex": 345,
 			"Cars": [
 				{
 					"Id": 6011
@@ -123946,6 +126537,7 @@
 		},
 		"6172": {
 			"Name": "RaceRoom Esports",
+			"PerformanceIndex": 345,
 			"Cars": [
 				{
 					"Id": 6177
@@ -123973,6 +126565,7 @@
 		},
 		"6309": {
 			"Name": "WTCC 2017",
+			"PerformanceIndex": 345,
 			"Cars": [
 				{
 					"Id": 6310
@@ -123994,6 +126587,7 @@
 		},
 		"6344": {
 			"Name": "BMW M235i Racing Cup",
+			"PerformanceIndex": 372,
 			"Cars": [
 				{
 					"Id": 6262
@@ -124003,6 +126597,7 @@
 		},
 		"6345": {
 			"Name": "Porsche 991.2 GT3 Cup",
+			"PerformanceIndex": 342,
 			"Cars": [
 				{
 					"Id": 4675
@@ -124012,6 +126607,7 @@
 		},
 		"6648": {
 			"Name": "Cayman GT4 Trophy by Manthey-Racing",
+			"PerformanceIndex": 359,
 			"Cars": [
 				{
 					"Id": 6568
@@ -124021,6 +126617,7 @@
 		},
 		"6783": {
 			"Name": "Esports WTCR Prologue",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 6588
@@ -124030,6 +126627,7 @@
 		},
 		"6794": {
 			"Name": "Mercedes-AMG Motorsport 30 Years of DTM",
+			"PerformanceIndex": 329,
 			"Cars": [
 				{
 					"Id": 6860
@@ -124051,6 +126649,7 @@
 		},
 		"7009": {
 			"Name": "WTCR 2018",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 7029
@@ -124078,6 +126677,7 @@
 		},
 		"7041": {
 			"Name": "Super Racer",
+			"PerformanceIndex": 359,
 			"Cars": [
 				{
 					"Id": 7040
@@ -124087,6 +126687,7 @@
 		},
 		"7075": {
 			"Name": "DTM 1995",
+			"PerformanceIndex": 341,
 			"Cars": [
 				{
 					"Id": 7076
@@ -124102,6 +126703,7 @@
 		},
 		"7110": {
 			"Name": "Zonda R Cup",
+			"PerformanceIndex": 316,
 			"Cars": [
 				{
 					"Id": 1824
@@ -124111,6 +126713,7 @@
 		},
 		"7167": {
 			"Name": "DTM 2003",
+			"PerformanceIndex": 324,
 			"Cars": [
 				{
 					"Id": 7169
@@ -124120,6 +126723,7 @@
 		},
 		"7168": {
 			"Name": "C-Klasse DTM 2005",
+			"PerformanceIndex": 334,
 			"Cars": [
 				{
 					"Id": 7183
@@ -124129,6 +126733,7 @@
 		},
 		"7214": {
 			"Name": "FR X-90 Cup",
+			"PerformanceIndex": 246,
 			"Cars": [
 				{
 					"Id": 7218
@@ -124144,6 +126749,7 @@
 		},
 		"7278": {
 			"Name": "ADAC GT Masters 2018",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 7630
@@ -124165,6 +126771,7 @@
 		},
 		"7287": {
 			"Name": "Porsche 964 Cup",
+			"PerformanceIndex": 377,
 			"Cars": [
 				{
 					"Id": 7396
@@ -124174,6 +126781,7 @@
 		},
 		"7304": {
 			"Name": "Group 4",
+			"PerformanceIndex": 356,
 			"Cars": [
 				{
 					"Id": 7805
@@ -124186,6 +126794,7 @@
 		},
 		"7765": {
 			"Name": "Volkswagen ID. R",
+			"PerformanceIndex": 296,
 			"Cars": [
 				{
 					"Id": 7810
@@ -124195,6 +126804,7 @@
 		},
 		"7767": {
 			"Name": "ADAC GT Masters 2020",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 9031
@@ -124225,6 +126835,7 @@
 		},
 		"7844": {
 			"Name": "WTCR 2019",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 7845
@@ -124252,6 +126863,7 @@
 		},
 		"7982": {
 			"Name": "Porsche Carrera Cup Deutschland 2019",
+			"PerformanceIndex": 342,
 			"Cars": [
 				{
 					"Id": 7983
@@ -124261,6 +126873,7 @@
 		},
 		"8165": {
 			"Name": "Porsche Carrera Cup Scandinavia",
+			"PerformanceIndex": 342,
 			"Cars": [
 				{
 					"Id": 8166
@@ -124270,6 +126883,7 @@
 		},
 		"8248": {
 			"Name": "GT2",
+			"PerformanceIndex": 332,
 			"Cars": [
 				{
 					"Id": 8652
@@ -124285,15 +126899,26 @@
 		},
 		"8483": {
 			"Name": "Group 2",
+			"PerformanceIndex": 405,
 			"Cars": [
 				{
+					"Id": 13679
+				},
+				{
+					"Id": 4810
+				},
+				{
 					"Id": 8498
+				},
+				{
+					"Id": 13945
 				}
 			],
 			"Id": 8483
 		},
 		"8600": {
 			"Name": "GTE",
+			"PerformanceIndex": 324,
 			"Cars": [
 				{
 					"Id": 12430
@@ -124306,6 +126931,7 @@
 		},
 		"8656": {
 			"Name": "eSports WTCR",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 8782
@@ -124339,6 +126965,7 @@
 		},
 		"8660": {
 			"Name": "Touring Cars Cup",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 10578
@@ -124369,6 +126996,7 @@
 		},
 		"8680": {
 			"Name": "Shopping Cart",
+			"PerformanceIndex": 343,
 			"Cars": [
 				{
 					"Id": 8677
@@ -124378,6 +127006,7 @@
 		},
 		"8681": {
 			"Name": "Porsche Esports Malaysia",
+			"PerformanceIndex": 339,
 			"Cars": [
 				{
 					"Id": 8792
@@ -124387,6 +127016,7 @@
 		},
 		"8682": {
 			"Name": "CUPRA Leon e-Racer",
+			"PerformanceIndex": 355,
 			"Cars": [
 				{
 					"Id": 8757
@@ -124396,6 +127026,7 @@
 		},
 		"9101": {
 			"Name": "DTM 2020 Esport",
+			"PerformanceIndex": 294,
 			"Cars": [
 				{
 					"Id": 9102
@@ -124408,6 +127039,7 @@
 		},
 		"9205": {
 			"Name": "DTM 2020",
+			"PerformanceIndex": 294,
 			"Cars": [
 				{
 					"Id": 9206
@@ -124420,6 +127052,7 @@
 		},
 		"9233": {
 			"Name": "WTCR 2020",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 9252
@@ -124447,6 +127080,7 @@
 		},
 		"9989": {
 			"Name": "Truck Racing",
+			"PerformanceIndex": 404,
 			"Cars": [
 				{
 					"Id": 9986
@@ -124456,6 +127090,7 @@
 		},
 		"10049": {
 			"Name": "ADAC Esports GT Masters 2021",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 10051
@@ -124477,6 +127112,7 @@
 		},
 		"10050": {
 			"Name": "FR X-22 Cup",
+			"PerformanceIndex": 237,
 			"Cars": [
 				{
 					"Id": 10018
@@ -124486,6 +127122,7 @@
 		},
 		"10266": {
 			"Name": "Ford Mustang Mach E",
+			"PerformanceIndex": 336,
 			"Cars": [
 				{
 					"Id": 10263
@@ -124495,6 +127132,7 @@
 		},
 		"10344": {
 			"Name": "WTCR 2021",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 10345
@@ -124519,6 +127157,7 @@
 		},
 		"10396": {
 			"Name": "DTM 2021",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 10541
@@ -124543,6 +127182,7 @@
 		},
 		"10743": {
 			"Name": "Safety Cars",
+			"PerformanceIndex": 0,
 			"Cars": [
 				{
 					"Id": 12537
@@ -124558,6 +127198,7 @@
 		},
 		"10786": {
 			"Name": "ADAC Esports GT Masters",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 10787
@@ -124585,6 +127226,7 @@
 		},
 		"10899": {
 			"Name": "Crosslé 90F",
+			"PerformanceIndex": 406,
 			"Cars": [
 				{
 					"Id": 10896
@@ -124594,6 +127236,7 @@
 		},
 		"10909": {
 			"Name": "BMW M2 Cup",
+			"PerformanceIndex": 359,
 			"Cars": [
 				{
 					"Id": 10599
@@ -124603,6 +127246,7 @@
 		},
 		"10917": {
 			"Name": "DTM Esports 2022",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 10918
@@ -124624,6 +127268,7 @@
 		},
 		"10977": {
 			"Name": "Mazda MX-5 Cup",
+			"PerformanceIndex": 385,
 			"Cars": [
 				{
 					"Id": 10914
@@ -124633,6 +127278,7 @@
 		},
 		"11055": {
 			"Name": "Praga R1",
+			"PerformanceIndex": 314,
 			"Cars": [
 				{
 					"Id": 11051
@@ -124642,6 +127288,7 @@
 		},
 		"11317": {
 			"Name": "WTCR 2022",
+			"PerformanceIndex": 361,
 			"Cars": [
 				{
 					"Id": 11325
@@ -124663,6 +127310,7 @@
 		},
 		"11485": {
 			"Name": "FRX-22 Esports",
+			"PerformanceIndex": 237,
 			"Cars": [
 				{
 					"Id": 11474
@@ -124672,6 +127320,7 @@
 		},
 		"11564": {
 			"Name": "Porsche 944 Turbo Cup",
+			"PerformanceIndex": 383,
 			"Cars": [
 				{
 					"Id": 11561
@@ -124681,6 +127330,7 @@
 		},
 		"11566": {
 			"Name": "ADAC GT Masters 2021",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 11567
@@ -124702,6 +127352,7 @@
 		},
 		"11844": {
 			"Name": "Crosslé 9S",
+			"PerformanceIndex": 381,
 			"Cars": [
 				{
 					"Id": 11285
@@ -124711,6 +127362,7 @@
 		},
 		"11990": {
 			"Name": "KTM GTX",
+			"PerformanceIndex": 329,
 			"Cars": [
 				{
 					"Id": 9660
@@ -124720,6 +127372,7 @@
 		},
 		"12003": {
 			"Name": "Mazda Dpi",
+			"PerformanceIndex": 294,
 			"Cars": [
 				{
 					"Id": 11342
@@ -124729,6 +127382,7 @@
 		},
 		"12015": {
 			"Name": "Porsche Carrera Cup Deutschland 2023",
+			"PerformanceIndex": 339,
 			"Cars": [
 				{
 					"Id": 12163
@@ -124738,6 +127392,7 @@
 		},
 		"12196": {
 			"Name": "DTM 2023",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 12352
@@ -124759,6 +127414,7 @@
 		},
 		"12302": {
 			"Name": "Porsche 992 GT3 Cup",
+			"PerformanceIndex": 339,
 			"Cars": [
 				{
 					"Id": 12012
@@ -124768,6 +127424,7 @@
 		},
 		"12770": {
 			"Name": "DTM 2024",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 12788
@@ -124795,6 +127452,7 @@
 		},
 		"12969": {
 			"Name": "Porsche Carrera Cup North America 2024",
+			"PerformanceIndex": 339,
 			"Cars": [
 				{
 					"Id": 12942
@@ -124804,6 +127462,7 @@
 		},
 		"13129": {
 			"Name": "Hypercars",
+			"PerformanceIndex": 298,
 			"Cars": [
 				{
 					"Id": 13126
@@ -124819,6 +127478,7 @@
 		},
 		"13136": {
 			"Name": "DTM 2025",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 13190
@@ -124846,6 +127506,7 @@
 		},
 		"13264": {
 			"Name": "DTM 2002",
+			"PerformanceIndex": 324,
 			"Cars": [
 				{
 					"Id": 13265
@@ -124861,6 +127522,7 @@
 		},
 		"13358": {
 			"Name": "NXT Gen Cup",
+			"PerformanceIndex": 412,
 			"Cars": [
 				{
 					"Id": 13355
@@ -124870,6 +127532,7 @@
 		},
 		"13397": {
 			"Name": "Alpine A110 Cup",
+			"PerformanceIndex": 363,
 			"Cars": [
 				{
 					"Id": 13394
@@ -124879,6 +127542,7 @@
 		},
 		"13571": {
 			"Name": "DTM 2026",
+			"PerformanceIndex": 335,
 			"Cars": [
 				{
 					"Id": 13603
@@ -125101,6 +127765,14 @@
 		"13407": {
 			"Name": "Alpine",
 			"Id": 13407
+		},
+		"13682": {
+			"Name": "Abarth",
+			"Id": 13682
+		},
+		"13949": {
+			"Name": "Mini",
+			"Id": 13949
 		}
 	},
 	"teams": {
@@ -136519,6 +139191,21 @@
 			"Name": "WINWARD Racing",
 			"Id": 13537
 		},
+		"13540": {
+			"Type": "CarTeam",
+			"Name": "Peugeot Esso",
+			"Id": 13540
+		},
+		"13542": {
+			"Type": "CarTeam",
+			"Name": "EF Racing",
+			"Id": 13542
+		},
+		"13549": {
+			"Type": "CarTeam",
+			"Name": "Ford Team Mondeo",
+			"Id": 13549
+		},
 		"13553": {
 			"Type": "CarTeam",
 			"Name": "Disabled Person Racing",
@@ -136618,6 +139305,191 @@
 			"Type": "CarTeam",
 			"Name": "KKrämer Racing",
 			"Id": 13633
+		},
+		"13664": {
+			"Type": "CarTeam",
+			"Name": "Ford Mondeo Racing",
+			"Id": 13664
+		},
+		"13665": {
+			"Type": "CarTeam",
+			"Name": "Gémo Sport",
+			"Id": 13665
+		},
+		"13670": {
+			"Type": "CarTeam",
+			"Name": "Esso Ultron Team Peugeot",
+			"Id": 13670
+		},
+		"13676": {
+			"Type": "CarTeam",
+			"Name": "Taxi Marseille",
+			"Id": 13676
+		},
+		"13680": {
+			"Type": "CarTeam",
+			"Name": "Fiat 128 Racing Team",
+			"Id": 13680
+		},
+		"13710": {
+			"Type": "CarTeam",
+			"Name": "Scuderia Topolino",
+			"Id": 13710
+		},
+		"13712": {
+			"Type": "CarTeam",
+			"Name": "Classic Racing Altena",
+			"Id": 13712
+		},
+		"13715": {
+			"Type": "CarTeam",
+			"Name": "Lionspeed GP",
+			"Id": 13715
+		},
+		"13721": {
+			"Type": "CarTeam",
+			"Name": "GranPay Team",
+			"Id": 13721
+		},
+		"13942": {
+			"Type": "CarTeam",
+			"Name": "INITIALD",
+			"Id": 13942
+		},
+		"13947": {
+			"Type": "CarTeam",
+			"Name": "1",
+			"Id": 13947
+		},
+		"13951": {
+			"Type": "CarTeam",
+			"Name": "015",
+			"Id": 13951
+		},
+		"13953": {
+			"Type": "CarTeam",
+			"Name": "15",
+			"Id": 13953
+		},
+		"13955": {
+			"Type": "CarTeam",
+			"Name": "20",
+			"Id": 13955
+		},
+		"13957": {
+			"Type": "CarTeam",
+			"Name": "22",
+			"Id": 13957
+		},
+		"13959": {
+			"Type": "CarTeam",
+			"Name": "28",
+			"Id": 13959
+		},
+		"13961": {
+			"Type": "CarTeam",
+			"Name": "39",
+			"Id": 13961
+		},
+		"13963": {
+			"Type": "CarTeam",
+			"Name": "46",
+			"Id": 13963
+		},
+		"13965": {
+			"Type": "CarTeam",
+			"Name": "59",
+			"Id": 13965
+		},
+		"13967": {
+			"Type": "CarTeam",
+			"Name": "64",
+			"Id": 13967
+		},
+		"13969": {
+			"Type": "CarTeam",
+			"Name": "7",
+			"Id": 13969
+		},
+		"13981": {
+			"Type": "CarTeam",
+			"Name": "MiniNerds International Race Team",
+			"Id": 13981
+		},
+		"13983": {
+			"Type": "CarTeam",
+			"Name": "Raceroom",
+			"Id": 13983
+		},
+		"13993": {
+			"Type": "CarTeam",
+			"Name": "1",
+			"Id": 13993
+		},
+		"14030": {
+			"Type": "CarTeam",
+			"Name": "Wein Racing Team",
+			"Id": 14030
+		},
+		"14031": {
+			"Type": "CarTeam",
+			"Name": "Swiss Mini Racing Team",
+			"Id": 14031
+		},
+		"14042": {
+			"Type": "CarTeam",
+			"Name": "RHC Racing Team",
+			"Id": 14042
+		},
+		"14057": {
+			"Type": "CarTeam",
+			"Name": "MadHatter Racing Flanders",
+			"Id": 14057
+		},
+		"14058": {
+			"Type": "CarTeam",
+			"Name": "Winners Rally Team",
+			"Id": 14058
+		},
+		"14059": {
+			"Type": "CarTeam",
+			"Name": "M3 Mini-Racing Team",
+			"Id": 14059
+		},
+		"14064": {
+			"Type": "CarTeam",
+			"Name": "Trak Racer",
+			"Id": 14064
+		},
+		"14076": {
+			"Type": "CarTeam",
+			"Name": "Tobii",
+			"Id": 14076
+		},
+		"14077": {
+			"Type": "CarTeam",
+			"Name": "Qan",
+			"Id": 14077
+		},
+		"14078": {
+			"Type": "CarTeam",
+			"Name": "Shamir",
+			"Id": 14078
+		},
+		"14079": {
+			"Type": "CarTeam",
+			"Name": "Moser.Watch",
+			"Id": 14079
+		},
+		"14080": {
+			"Type": "CarTeam",
+			"Name": "Raceroom",
+			"Id": 14080
+		},
+		"14103": {
+			"Type": "CarTeam",
+			"Name": "Businessolver",
+			"Id": 14103
 		}
 	}
 }
